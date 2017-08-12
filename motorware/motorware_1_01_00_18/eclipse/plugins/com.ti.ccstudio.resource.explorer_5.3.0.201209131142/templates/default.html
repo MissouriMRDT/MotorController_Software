@@ -1,0 +1,51 @@
+<html>
+<head>
+<title>TI Resource Explorer</title>
+<link href="${css_path}/main.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<h1>
+	<img src="${header_image_path}" /> TI Resource Explorer
+</h1>
+
+<h2>
+	A place to browse examples, documentation, and online content.
+</h2>
+
+<p>
+	<tr>
+		<td>
+			Filters at the top of this window can be used to narrow down the content displayed in the left pane.
+			<ul> 
+				<li><b>"Packages"</b> filter will limit the available content in the left pane to the currently selected product package item.</li>
+				<li><b>"Devices"</b> filter will further narrow the content that is applicable to the selected device item.</li>
+				<li><b>"Topics"</b> works the same way as the "Devices" filter, it further narrows the content that is applicable to the selected topic item.</li>
+			</ul>
+		</td>
+	</tr>
+	
+	<tr>
+		<td>
+			The free form filter in the left pane accepts keyword(s), content that match the keyword(s) will be displayed in the left pane. 
+			You can use "*" for wildcard and "|" to separate more than one keywords. 
+		</td>
+	<tr/>
+	
+	<tr>
+		<td>
+			Use the <b>Back</b> and <b>Forward</b> button at the top of this window to navigate between last viewed pages.
+		</td>
+	</tr>
+
+</p>
+
+<p>
+	${download_content}
+</p>
+
+<p>
+	${configure_content}
+</p>
+</body>
+</html>

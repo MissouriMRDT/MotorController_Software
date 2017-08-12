@@ -1,0 +1,2190 @@
+MIME-Version: 1.0
+Content-Type: multipart/related; boundary="----=_NextPart_01D2A7DE.4A46FBF0"
+
+This document is a Single File Web Page, also known as a Web Archive file.  If you are seeing this message, your browser or editor doesn't support Web Archive files.  Please download a browser that supports Web Archive, such as Windows® Internet Explorer®.
+
+------=_NextPart_01D2A7DE.4A46FBF0
+Content-Location: file:///C:/E54D12A5/MotorWare.htm
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="windows-1252"
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml"
+xmlns:o=3D"urn:schemas-microsoft-com:office:office"
+xmlns:w=3D"urn:schemas-microsoft-com:office:word"
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml"
+xmlns=3D"http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=3DContent-Type content=3D"text/html; charset=3Dwindows-125=
+2">
+<meta name=3DProgId content=3DWord.Document>
+<meta name=3DGenerator content=3D"Microsoft Word 14">
+<meta name=3DOriginator content=3D"Microsoft Word 14">
+<link rel=3DFile-List href=3D"MotorWare_files/filelist.xml">
+<link rel=3DEdit-Time-Data href=3D"MotorWare_files/editdata.mso">
+<!--[if !mso]>
+<style>
+v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style>
+<![endif]-->
+<title>Texas Instruments Manifest</title>
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>Bigley, Sean</o:Author>
+  <o:LastAuthor>Bigley, Sean</o:LastAuthor>
+  <o:Revision>2</o:Revision>
+  <o:TotalTime>0</o:TotalTime>
+  <o:LastPrinted>2016-09-28T20:05:00Z</o:LastPrinted>
+  <o:Created>2017-03-28T21:13:00Z</o:Created>
+  <o:LastSaved>2017-03-28T21:13:00Z</o:LastSaved>
+  <o:Pages>4</o:Pages>
+  <o:Words>2793</o:Words>
+  <o:Characters>15924</o:Characters>
+  <o:Company>Texas Instruments Incorporated</o:Company>
+  <o:Lines>132</o:Lines>
+  <o:Paragraphs>37</o:Paragraphs>
+  <o:CharactersWithSpaces>18680</o:CharactersWithSpaces>
+  <o:Version>14.00</o:Version>
+ </o:DocumentProperties>
+ <o:OfficeDocumentSettings>
+  <o:AllowPNG/>
+ </o:OfficeDocumentSettings>
+</xml><![endif]-->
+<link rel=3DthemeData href=3D"MotorWare_files/themedata.thmx">
+<link rel=3DcolorSchemeMapping href=3D"MotorWare_files/colorschememapping.x=
+ml">
+<!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:SpellingState>Clean</w:SpellingState>
+  <w:GrammarState>Clean</w:GrammarState>
+  <w:TrackMoves>false</w:TrackMoves>
+  <w:TrackFormatting/>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:DoNotPromoteQF/>
+  <w:LidThemeOther>EN-US</w:LidThemeOther>
+  <w:LidThemeAsian>X-NONE</w:LidThemeAsian>
+  <w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript>
+  <w:Compatibility>
+   <w:BreakWrappedTables/>
+   <w:SplitPgBreakAndParaMark/>
+  </w:Compatibility>
+  <m:mathPr>
+   <m:mathFont m:val=3D"Cambria Math"/>
+   <m:brkBin m:val=3D"before"/>
+   <m:brkBinSub m:val=3D"&#45;-"/>
+   <m:smallFrac m:val=3D"off"/>
+   <m:dispDef/>
+   <m:lMargin m:val=3D"0"/>
+   <m:rMargin m:val=3D"0"/>
+   <m:defJc m:val=3D"centerGroup"/>
+   <m:wrapIndent m:val=3D"1440"/>
+   <m:intLim m:val=3D"subSup"/>
+   <m:naryLim m:val=3D"undOvr"/>
+  </m:mathPr></w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState=3D"false" DefUnhideWhenUsed=3D"true"
+  DefSemiHidden=3D"true" DefQFormat=3D"false" DefPriority=3D"99"
+  LatentStyleCount=3D"267">
+  <w:LsdException Locked=3D"false" Priority=3D"0" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" QFormat=3D"true" Name=3D"Normal"/>
+  <w:LsdException Locked=3D"false" Priority=3D"9" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" QFormat=3D"true" Name=3D"heading 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"9" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" QFormat=3D"true" Name=3D"heading 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"9" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" QFormat=3D"true" Name=3D"heading 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"9" QFormat=3D"true" Name=3D"=
+heading 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"9" QFormat=3D"true" Name=3D"=
+heading 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"9" QFormat=3D"true" Name=3D"=
+heading 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"9" QFormat=3D"true" Name=3D"=
+heading 7"/>
+  <w:LsdException Locked=3D"false" Priority=3D"9" QFormat=3D"true" Name=3D"=
+heading 8"/>
+  <w:LsdException Locked=3D"false" Priority=3D"9" QFormat=3D"true" Name=3D"=
+heading 9"/>
+  <w:LsdException Locked=3D"false" Priority=3D"39" Name=3D"toc 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"39" Name=3D"toc 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"39" Name=3D"toc 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"39" Name=3D"toc 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"39" Name=3D"toc 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"39" Name=3D"toc 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"39" Name=3D"toc 7"/>
+  <w:LsdException Locked=3D"false" Priority=3D"39" Name=3D"toc 8"/>
+  <w:LsdException Locked=3D"false" Priority=3D"39" Name=3D"toc 9"/>
+  <w:LsdException Locked=3D"false" Priority=3D"35" QFormat=3D"true" Name=3D=
+"caption"/>
+  <w:LsdException Locked=3D"false" Priority=3D"10" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" QFormat=3D"true" Name=3D"Title"/>
+  <w:LsdException Locked=3D"false" Priority=3D"1" Name=3D"Default Paragraph=
+ Font"/>
+  <w:LsdException Locked=3D"false" Priority=3D"11" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" QFormat=3D"true" Name=3D"Subtitle"/>
+  <w:LsdException Locked=3D"false" Priority=3D"22" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" QFormat=3D"true" Name=3D"Strong"/>
+  <w:LsdException Locked=3D"false" Priority=3D"20" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" QFormat=3D"true" Name=3D"Emphasis"/>
+  <w:LsdException Locked=3D"false" Priority=3D"59" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Table Grid"/>
+  <w:LsdException Locked=3D"false" UnhideWhenUsed=3D"false" Name=3D"Placeho=
+lder Text"/>
+  <w:LsdException Locked=3D"false" Priority=3D"1" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" QFormat=3D"true" Name=3D"No Spacing"/>
+  <w:LsdException Locked=3D"false" Priority=3D"60" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Light Shading"/>
+  <w:LsdException Locked=3D"false" Priority=3D"61" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Light List"/>
+  <w:LsdException Locked=3D"false" Priority=3D"62" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Light Grid"/>
+  <w:LsdException Locked=3D"false" Priority=3D"63" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Shading 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"64" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Shading 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"65" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium List 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"66" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium List 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"67" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Grid 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"68" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Grid 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"69" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Grid 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"70" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Dark List"/>
+  <w:LsdException Locked=3D"false" Priority=3D"71" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Colorful Shading"/>
+  <w:LsdException Locked=3D"false" Priority=3D"72" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Colorful List"/>
+  <w:LsdException Locked=3D"false" Priority=3D"73" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Colorful Grid"/>
+  <w:LsdException Locked=3D"false" Priority=3D"60" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Light Shading Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"61" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Light List Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"62" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Light Grid Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"63" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Shading 1 Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"64" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Shading 2 Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"65" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium List 1 Accent 1"/>
+  <w:LsdException Locked=3D"false" UnhideWhenUsed=3D"false" Name=3D"Revisio=
+n"/>
+  <w:LsdException Locked=3D"false" Priority=3D"34" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" QFormat=3D"true" Name=3D"List Paragraph"/>
+  <w:LsdException Locked=3D"false" Priority=3D"29" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" QFormat=3D"true" Name=3D"Quote"/>
+  <w:LsdException Locked=3D"false" Priority=3D"30" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" QFormat=3D"true" Name=3D"Intense Quote"/>
+  <w:LsdException Locked=3D"false" Priority=3D"66" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium List 2 Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"67" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Grid 1 Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"68" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Grid 2 Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"69" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Grid 3 Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"70" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Dark List Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"71" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Colorful Shading Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"72" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Colorful List Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"73" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Colorful Grid Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"60" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Light Shading Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"61" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Light List Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"62" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Light Grid Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"63" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Shading 1 Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"64" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Shading 2 Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"65" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium List 1 Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"66" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium List 2 Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"67" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Grid 1 Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"68" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Grid 2 Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"69" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Grid 3 Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"70" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Dark List Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"71" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Colorful Shading Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"72" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Colorful List Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"73" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Colorful Grid Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"60" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Light Shading Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"61" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Light List Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"62" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Light Grid Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"63" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Shading 1 Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"64" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Shading 2 Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"65" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium List 1 Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"66" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium List 2 Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"67" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Grid 1 Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"68" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Grid 2 Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"69" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Grid 3 Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"70" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Dark List Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"71" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Colorful Shading Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"72" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Colorful List Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"73" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Colorful Grid Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"60" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Light Shading Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"61" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Light List Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"62" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Light Grid Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"63" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Shading 1 Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"64" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Shading 2 Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"65" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium List 1 Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"66" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium List 2 Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"67" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Grid 1 Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"68" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Grid 2 Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"69" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Grid 3 Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"70" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Dark List Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"71" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Colorful Shading Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"72" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Colorful List Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"73" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Colorful Grid Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"60" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Light Shading Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"61" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Light List Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"62" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Light Grid Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"63" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Shading 1 Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"64" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Shading 2 Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"65" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium List 1 Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"66" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium List 2 Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"67" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Grid 1 Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"68" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Grid 2 Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"69" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Grid 3 Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"70" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Dark List Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"71" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Colorful Shading Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"72" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Colorful List Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"73" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Colorful Grid Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"60" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Light Shading Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"61" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Light List Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"62" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Light Grid Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"63" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Shading 1 Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"64" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Shading 2 Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"65" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium List 1 Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"66" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium List 2 Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"67" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Grid 1 Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"68" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Grid 2 Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"69" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Grid 3 Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"70" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Dark List Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"71" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Colorful Shading Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"72" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Colorful List Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"73" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Colorful Grid Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"19" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" QFormat=3D"true" Name=3D"Subtle Emphasis"/>
+  <w:LsdException Locked=3D"false" Priority=3D"21" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" QFormat=3D"true" Name=3D"Intense Emphasis"/>
+  <w:LsdException Locked=3D"false" Priority=3D"31" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" QFormat=3D"true" Name=3D"Subtle Reference"/>
+  <w:LsdException Locked=3D"false" Priority=3D"32" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" QFormat=3D"true" Name=3D"Intense Reference"/>
+  <w:LsdException Locked=3D"false" Priority=3D"33" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" QFormat=3D"true" Name=3D"Book Title"/>
+  <w:LsdException Locked=3D"false" Priority=3D"37" Name=3D"Bibliography"/>
+  <w:LsdException Locked=3D"false" Priority=3D"39" QFormat=3D"true" Name=3D=
+"TOC Heading"/>
+ </w:LatentStyles>
+</xml><![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:-520081665 -1073717157 41 0 66047 0;}
+@font-face
+	{font-family:Verdana;
+	panose-1:2 11 6 4 3 5 4 4 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:-1593833729 1073750107 16 0 415 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-parent:"";
+	mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:minor-fareast;}
+h1
+	{mso-style-priority:9;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-link:"Heading 1 Char";
+	mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	mso-outline-level:1;
+	font-size:18.0pt;
+	font-family:"Times New Roman","serif";
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:minor-fareast;
+	font-weight:bold;}
+h2
+	{mso-style-priority:9;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-link:"Heading 2 Char";
+	mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	mso-outline-level:2;
+	font-size:14.5pt;
+	font-family:"Times New Roman","serif";
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:minor-fareast;
+	font-weight:bold;}
+h3
+	{mso-style-priority:9;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-link:"Heading 3 Char";
+	mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	mso-outline-level:3;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:minor-fareast;
+	font-weight:bold;}
+a:link, span.MsoHyperlink
+	{mso-style-noshow:yes;
+	mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;
+	text-underline:single;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-noshow:yes;
+	mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;
+	text-underline:single;}
+p
+	{mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Verdana","sans-serif";
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:minor-fareast;
+	mso-bidi-font-family:"Times New Roman";}
+p.MsoAcetate, li.MsoAcetate, div.MsoAcetate
+	{mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-link:"Balloon Text Char";
+	mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	font-size:8.0pt;
+	font-family:"Tahoma","sans-serif";
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:minor-fareast;}
+span.Heading1Char
+	{mso-style-name:"Heading 1 Char";
+	mso-style-priority:9;
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:"Heading 1";
+	mso-ansi-font-size:14.0pt;
+	mso-bidi-font-size:14.0pt;
+	font-family:"Cambria","serif";
+	mso-ascii-font-family:Cambria;
+	mso-ascii-theme-font:major-latin;
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:major-fareast;
+	mso-hansi-font-family:Cambria;
+	mso-hansi-theme-font:major-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:major-bidi;
+	color:#365F91;
+	mso-themecolor:accent1;
+	mso-themeshade:191;
+	font-weight:bold;}
+span.Heading2Char
+	{mso-style-name:"Heading 2 Char";
+	mso-style-noshow:yes;
+	mso-style-priority:9;
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:"Heading 2";
+	mso-ansi-font-size:13.0pt;
+	mso-bidi-font-size:13.0pt;
+	font-family:"Cambria","serif";
+	mso-ascii-font-family:Cambria;
+	mso-ascii-theme-font:major-latin;
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:major-fareast;
+	mso-hansi-font-family:Cambria;
+	mso-hansi-theme-font:major-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:major-bidi;
+	color:#4F81BD;
+	mso-themecolor:accent1;
+	font-weight:bold;}
+span.Heading3Char
+	{mso-style-name:"Heading 3 Char";
+	mso-style-noshow:yes;
+	mso-style-priority:9;
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:"Heading 3";
+	mso-ansi-font-size:12.0pt;
+	mso-bidi-font-size:12.0pt;
+	font-family:"Cambria","serif";
+	mso-ascii-font-family:Cambria;
+	mso-ascii-theme-font:major-latin;
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:major-fareast;
+	mso-hansi-font-family:Cambria;
+	mso-hansi-theme-font:major-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:major-bidi;
+	color:#4F81BD;
+	mso-themecolor:accent1;
+	font-weight:bold;}
+p.logosection, li.logosection, div.logosection
+	{mso-style-name:logosection;
+	mso-style-unhide:no;
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Verdana","sans-serif";
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:minor-fareast;
+	mso-bidi-font-family:"Times New Roman";}
+p.headersection, li.headersection, div.headersection
+	{mso-style-name:headersection;
+	mso-style-unhide:no;
+	margin-top:18.75pt;
+	margin-right:0in;
+	margin-bottom:18.75pt;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Verdana","sans-serif";
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:minor-fareast;
+	mso-bidi-font-family:"Times New Roman";}
+p.legendsection, li.legendsection, div.legendsection
+	{mso-style-name:legendsection;
+	mso-style-unhide:no;
+	margin-top:18.75pt;
+	margin-right:0in;
+	margin-bottom:18.75pt;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Verdana","sans-serif";
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:minor-fareast;
+	mso-bidi-font-family:"Times New Roman";}
+p.exportsection, li.exportsection, div.exportsection
+	{mso-style-name:exportsection;
+	mso-style-unhide:no;
+	margin-top:18.75pt;
+	margin-right:0in;
+	margin-bottom:18.75pt;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Verdana","sans-serif";
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:minor-fareast;
+	mso-bidi-font-family:"Times New Roman";}
+p.disclaimersection, li.disclaimersection, div.disclaimersection
+	{mso-style-name:disclaimersection;
+	mso-style-unhide:no;
+	margin-top:18.75pt;
+	margin-right:0in;
+	margin-bottom:18.75pt;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Verdana","sans-serif";
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:minor-fareast;
+	mso-bidi-font-family:"Times New Roman";}
+p.creditsection, li.creditsection, div.creditsection
+	{mso-style-name:creditsection;
+	mso-style-unhide:no;
+	margin-top:18.75pt;
+	margin-right:0in;
+	margin-bottom:18.75pt;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Verdana","sans-serif";
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:minor-fareast;
+	mso-bidi-font-family:"Times New Roman";}
+p.licensesection, li.licensesection, div.licensesection
+	{mso-style-name:licensesection;
+	mso-style-unhide:no;
+	margin-top:18.75pt;
+	margin-right:0in;
+	margin-bottom:18.75pt;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Verdana","sans-serif";
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:minor-fareast;
+	mso-bidi-font-family:"Times New Roman";}
+p.manifesttable, li.manifesttable, div.manifesttable
+	{mso-style-name:manifesttable;
+	mso-style-unhide:no;
+	margin-top:18.75pt;
+	margin-right:0in;
+	margin-bottom:18.75pt;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Verdana","sans-serif";
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:minor-fareast;
+	mso-bidi-font-family:"Times New Roman";}
+span.BalloonTextChar
+	{mso-style-name:"Balloon Text Char";
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:"Balloon Text";
+	mso-ansi-font-size:8.0pt;
+	mso-bidi-font-size:8.0pt;
+	font-family:"Tahoma","sans-serif";
+	mso-ascii-font-family:Tahoma;
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:minor-fareast;
+	mso-hansi-font-family:Tahoma;
+	mso-bidi-font-family:Tahoma;}
+span.SpellE
+	{mso-style-name:"";
+	mso-spl-e:yes;}
+span.GramE
+	{mso-style-name:"";
+	mso-gram-e:yes;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	mso-default-props:yes;
+	font-size:10.0pt;
+	mso-ansi-font-size:10.0pt;
+	mso-bidi-font-size:10.0pt;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;
+	mso-paper-source:0;}
+div.WordSection1
+	{page:WordSection1;}
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-parent:"";
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-para-margin:0in;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman","serif";}
+</style>
+<![endif]--><!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext=3D"edit" spidmax=3D"1026"/>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext=3D"edit">
+  <o:idmap v:ext=3D"edit" data=3D"1"/>
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body lang=3DEN-US link=3Dblue vlink=3Dpurple style=3D'tab-interval:.5in;ma=
+rgin-top:
+18.75pt;margin-bottom:18.75pt'>
+
+<div class=3DWordSection1>
+
+<table class=3DMsoNormalTable border=3D1 cellspacing=3D0 cellpadding=3D0 wi=
+dth=3D"100%"
+ style=3D'width:100.0%;border-collapse:collapse;border:none;mso-border-alt:=
+solid black .75pt;
+ mso-yfti-tbllook:1184;mso-padding-alt:3.75pt 3.75pt 3.75pt 3.75pt'>
+ <tr style=3D'mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes;
+  page-break-inside:avoid'>
+  <td width=3D"20%" style=3D'width:20.0%;border:solid black 1.0pt;mso-borde=
+r-alt:
+  solid black .75pt;background:black;padding:0in 0in 0in 0in'>
+  <p class=3DMsoNormal style=3D'margin:0in;margin-bottom:.0001pt'><a
+  href=3D"http://www.ti.com/"><span style=3D'font-size:10.0pt;font-family:"=
+Verdana","sans-serif";
+  mso-fareast-font-family:"Times New Roman";color:windowtext;mso-no-proof:y=
+es;
+  text-decoration:none;text-underline:none'><!--[if gte vml 1]><v:shapetype
+   id=3D"_x0000_t75" coordsize=3D"21600,21600" o:spt=3D"75" o:preferrelativ=
+e=3D"t"
+   path=3D"m@4@5l@4@11@9@11@9@5xe" filled=3D"f" stroked=3D"f">
+   <v:stroke joinstyle=3D"miter"/>
+   <v:formulas>
+    <v:f eqn=3D"if lineDrawn pixelLineWidth 0"/>
+    <v:f eqn=3D"sum @0 1 0"/>
+    <v:f eqn=3D"sum 0 0 @1"/>
+    <v:f eqn=3D"prod @2 1 2"/>
+    <v:f eqn=3D"prod @3 21600 pixelWidth"/>
+    <v:f eqn=3D"prod @3 21600 pixelHeight"/>
+    <v:f eqn=3D"sum @0 0 1"/>
+    <v:f eqn=3D"prod @6 1 2"/>
+    <v:f eqn=3D"prod @7 21600 pixelWidth"/>
+    <v:f eqn=3D"sum @8 21600 0"/>
+    <v:f eqn=3D"prod @7 21600 pixelHeight"/>
+    <v:f eqn=3D"sum @10 21600 0"/>
+   </v:formulas>
+   <v:path o:extrusionok=3D"f" gradientshapeok=3D"t" o:connecttype=3D"rect"=
+/>
+   <o:lock v:ext=3D"edit" aspectratio=3D"t"/>
+  </v:shapetype><v:shape id=3D"Picture_x0020_4" o:spid=3D"_x0000_i1026" typ=
+e=3D"#_x0000_t75"
+   href=3D"http://www.ti.com/" style=3D'width:166.5pt;height:40.5pt;visibil=
+ity:visible;
+   mso-wrap-style:square' o:button=3D"t">
+   <v:fill o:detectmouseclick=3D"t"/>
+   <v:imagedata src=3D"MotorWare_files/image001.gif" o:title=3D""/>
+  </v:shape><![endif]--><![if !vml]><span style=3D'mso-ignore:vglayout'><img
+  border=3D0 width=3D222 height=3D54 src=3D"MotorWare_files/image001.gif" v=
+:shapes=3D"Picture_x0020_4"></span><![endif]></span></a><span
+  style=3D'font-size:10.0pt;font-family:"Verdana","sans-serif";mso-fareast-=
+font-family:
+  "Times New Roman"'><o:p></o:p></span></p>
+  </td>
+  <td style=3D'border:solid black 1.0pt;border-left:none;mso-border-left-al=
+t:
+  solid black .75pt;mso-border-alt:solid black .75pt;background:red;padding:
+  0in 0in 0in 0in'>
+  <p class=3DMsoNormal style=3D'margin:0in;margin-bottom:.0001pt'><span
+  style=3D'font-size:10.0pt;font-family:"Verdana","sans-serif";mso-fareast-=
+font-family:
+  "Times New Roman";mso-no-proof:yes'><!--[if gte vml 1]><v:shape id=3D"Pic=
+ture_x0020_3"
+   o:spid=3D"_x0000_i1025" type=3D"#_x0000_t75" style=3D'width:235.5pt;heig=
+ht:19.5pt;
+   visibility:visible;mso-wrap-style:square'>
+   <v:imagedata src=3D"MotorWare_files/image002.gif" o:title=3D""/>
+  </v:shape><![endif]--><![if !vml]><img border=3D0 width=3D314 height=3D26
+  src=3D"MotorWare_files/image002.gif" v:shapes=3D"Picture_x0020_3"><![endi=
+f]></span><span
+  style=3D'font-size:10.0pt;font-family:"Verdana","sans-serif";mso-fareast-=
+font-family:
+  "Times New Roman"'><o:p></o:p></span></p>
+  </td>
+ </tr>
+</table>
+
+<div style=3D'margin-top:18.75pt;margin-bottom:18.75pt'>
+
+<h1 align=3Dcenter style=3D'text-align:center'><span style=3D'font-size:15.=
+0pt;
+font-family:"Verdana","sans-serif";mso-fareast-font-family:"Times New Roman=
+"'>C2000-MOTORWARE
+Manifest <o:p></o:p></span></h1>
+
+<h2 align=3Dcenter style=3D'text-align:center'><span style=3D'font-size:12.=
+0pt;
+font-family:"Verdana","sans-serif";mso-fareast-font-family:"Times New Roman=
+"'>03-31-2017
+<o:p></o:p></span></h2>
+
+<h2><span style=3D'font-size:12.0pt;font-family:"Verdana","sans-serif";
+mso-fareast-font-family:"Times New Roman"'>Manifest ID - SRAS00001903 <o:p>=
+</o:p></span></h2>
+
+</div>
+
+<div style=3D'margin-top:18.75pt;margin-bottom:18.75pt'>
+
+<h2><span style=3D'font-size:12.0pt;font-family:"Verdana","sans-serif";
+mso-fareast-font-family:"Times New Roman"'>Legend<o:p></o:p></span></h2>
+
+<p>(<span class=3DGramE>explanation</span> of the fields in the Manifest Ta=
+ble
+below)</p>
+
+<table class=3DMsoNormalTable border=3D1 cellspacing=3D0 cellpadding=3D0 wi=
+dth=3D"100%"
+ style=3D'width:100.0%;border-collapse:collapse;border:none;mso-border-alt:=
+solid black .75pt;
+ mso-yfti-tbllook:1184;mso-padding-alt:3.75pt 3.75pt 3.75pt 3.75pt'>
+ <tr style=3D'mso-yfti-irow:0;mso-yfti-firstrow:yes;page-break-inside:avoid=
+'>
+  <td style=3D'border:solid black 1.0pt;mso-border-alt:solid black .75pt;
+  padding:3.75pt 3.75pt 3.75pt 3.75pt'>
+  <p class=3DMsoNormal style=3D'margin:0in;margin-bottom:.0001pt'><b><span
+  style=3D'font-size:10.0pt;font-family:"Verdana","sans-serif";mso-fareast-=
+font-family:
+  "Times New Roman"'>Software Name </span></b><span style=3D'font-size:10.0=
+pt;
+  font-family:"Verdana","sans-serif";mso-fareast-font-family:"Times New Rom=
+an"'><o:p></o:p></span></p>
+  </td>
+  <td style=3D'border:solid black 1.0pt;border-left:none;mso-border-left-al=
+t:
+  solid black .75pt;mso-border-alt:solid black .75pt;padding:3.75pt 3.75pt =
+3.75pt 3.75pt'>
+  <p class=3DMsoNormal style=3D'margin:0in;margin-bottom:.0001pt'><span
+  style=3D'font-size:10.0pt;font-family:"Verdana","sans-serif";mso-fareast-=
+font-family:
+  "Times New Roman"'>The name of the application or file <o:p></o:p></span>=
+</p>
+  </td>
+ </tr>
+ <tr style=3D'mso-yfti-irow:1;page-break-inside:avoid'>
+  <td style=3D'border:solid black 1.0pt;border-top:none;mso-border-top-alt:=
+solid black .75pt;
+  mso-border-alt:solid black .75pt;padding:3.75pt 3.75pt 3.75pt 3.75pt'>
+  <p class=3DMsoNormal style=3D'margin:0in;margin-bottom:.0001pt'><b><span
+  style=3D'font-size:10.0pt;font-family:"Verdana","sans-serif";mso-fareast-=
+font-family:
+  "Times New Roman"'>Version</span></b><span style=3D'font-size:10.0pt;
+  font-family:"Verdana","sans-serif";mso-fareast-font-family:"Times New Rom=
+an"'>
+  <o:p></o:p></span></p>
+  </td>
+  <td style=3D'border-top:none;border-left:none;border-bottom:solid black 1=
+.0pt;
+  border-right:solid black 1.0pt;mso-border-top-alt:solid black .75pt;
+  mso-border-left-alt:solid black .75pt;mso-border-alt:solid black .75pt;
+  padding:3.75pt 3.75pt 3.75pt 3.75pt'>
+  <p class=3DMsoNormal style=3D'margin:0in;margin-bottom:.0001pt'><span
+  style=3D'font-size:10.0pt;font-family:"Verdana","sans-serif";mso-fareast-=
+font-family:
+  "Times New Roman"'>Version of the application or file <o:p></o:p></span><=
+/p>
+  </td>
+ </tr>
+ <tr style=3D'mso-yfti-irow:2;page-break-inside:avoid'>
+  <td style=3D'border:solid black 1.0pt;border-top:none;mso-border-top-alt:=
+solid black .75pt;
+  mso-border-alt:solid black .75pt;padding:3.75pt 3.75pt 3.75pt 3.75pt'>
+  <p class=3DMsoNormal style=3D'margin:0in;margin-bottom:.0001pt'><b><span
+  style=3D'font-size:10.0pt;font-family:"Verdana","sans-serif";mso-fareast-=
+font-family:
+  "Times New Roman"'>License Type</span></b><span style=3D'font-size:10.0pt;
+  font-family:"Verdana","sans-serif";mso-fareast-font-family:"Times New Rom=
+an"'>
+  <o:p></o:p></span></p>
+  </td>
+  <td style=3D'border-top:none;border-left:none;border-bottom:solid black 1=
+.0pt;
+  border-right:solid black 1.0pt;mso-border-top-alt:solid black .75pt;
+  mso-border-left-alt:solid black .75pt;mso-border-alt:solid black .75pt;
+  padding:3.75pt 3.75pt 3.75pt 3.75pt'>
+  <p class=3DMsoNormal style=3D'margin:0in;margin-bottom:.0001pt'><span
+  style=3D'font-size:10.0pt;font-family:"Verdana","sans-serif";mso-fareast-=
+font-family:
+  "Times New Roman"'>Type of license(s) under which TI will be providing
+  software to the licensee (e.g. BSD-3-Clause, GPL-2.0, TI TSPA License, TI
+  Commercial License). The license could be under Commercial terms or Open
+  Source. See Open Source Reference License Disclaimer in the Disclaimers
+  Section. Whenever possible, TI will use an </span><a
+  href=3D"http://spdx.org/licenses/"><span style=3D'font-size:10.0pt;font-f=
+amily:
+  "Verdana","sans-serif";mso-fareast-font-family:"Times New Roman"'>SPDX Sh=
+ort
+  Identifier </span></a><span style=3D'font-size:10.0pt;font-family:"Verdan=
+a","sans-serif";
+  mso-fareast-font-family:"Times New Roman"'>for an Open Source License. TI
+  Commercial license terms are not usually included in the manifest and are
+  conveyed through a variety of means such as a <span class=3DSpellE>clickw=
+rap</span>
+  license upon install, a signed license agreement and so forth. <o:p></o:p=
+></span></p>
+  </td>
+ </tr>
+ <tr style=3D'mso-yfti-irow:3;page-break-inside:avoid'>
+  <td style=3D'border:solid black 1.0pt;border-top:none;mso-border-top-alt:=
+solid black .75pt;
+  mso-border-alt:solid black .75pt;padding:3.75pt 3.75pt 3.75pt 3.75pt'>
+  <p class=3DMsoNormal style=3D'margin:0in;margin-bottom:.0001pt'><b><span
+  style=3D'font-size:10.0pt;font-family:"Verdana","sans-serif";mso-fareast-=
+font-family:
+  "Times New Roman"'>Location</span></b><span style=3D'font-size:10.0pt;
+  font-family:"Verdana","sans-serif";mso-fareast-font-family:"Times New Rom=
+an"'>
+  <o:p></o:p></span></p>
+  </td>
+  <td style=3D'border-top:none;border-left:none;border-bottom:solid black 1=
+.0pt;
+  border-right:solid black 1.0pt;mso-border-top-alt:solid black .75pt;
+  mso-border-left-alt:solid black .75pt;mso-border-alt:solid black .75pt;
+  padding:3.75pt 3.75pt 3.75pt 3.75pt'>
+  <p class=3DMsoNormal style=3D'margin:0in;margin-bottom:.0001pt'><span
+  style=3D'font-size:10.0pt;font-family:"Verdana","sans-serif";mso-fareast-=
+font-family:
+  "Times New Roman"'>The directory name and path on the media or a specific
+  file where the Software is located. Typically fully qualified path names =
+are
+  not used and instead the relevant top level directory of the application =
+is
+  given. A notation often used in the manifests is [as installed]/directory=
+/*.
+  Note that the asterisk implies that all files under that directory are
+  licensed as the License Type field denotes. Any exceptions to this will
+  generally be denoted as [as installed]/directory/* except as noted below
+  which means as shown in subsequent rows of the manifest. <o:p></o:p></spa=
+n></p>
+  </td>
+ </tr>
+ <tr style=3D'mso-yfti-irow:4;page-break-inside:avoid'>
+  <td style=3D'border:solid black 1.0pt;border-top:none;mso-border-top-alt:=
+solid black .75pt;
+  mso-border-alt:solid black .75pt;padding:3.75pt 3.75pt 3.75pt 3.75pt'>
+  <p class=3DMsoNormal style=3D'margin:0in;margin-bottom:.0001pt'><b><span
+  style=3D'font-size:10.0pt;font-family:"Verdana","sans-serif";mso-fareast-=
+font-family:
+  "Times New Roman"'>Delivered As</span></b><span style=3D'font-size:10.0pt;
+  font-family:"Verdana","sans-serif";mso-fareast-font-family:"Times New Rom=
+an"'>
+  <o:p></o:p></span></p>
+  </td>
+  <td style=3D'border-top:none;border-left:none;border-bottom:solid black 1=
+.0pt;
+  border-right:solid black 1.0pt;mso-border-top-alt:solid black .75pt;
+  mso-border-left-alt:solid black .75pt;mso-border-alt:solid black .75pt;
+  padding:3.75pt 3.75pt 3.75pt 3.75pt'>
+  <p class=3DMsoNormal style=3D'margin:0in;margin-bottom:.0001pt'><span
+  style=3D'font-size:10.0pt;font-family:"Verdana","sans-serif";mso-fareast-=
+font-family:
+  "Times New Roman"'>This field will either be “Source”, “Binary” or “Source
+  and Binary” and is the primary form the content of the Software is delive=
+red
+  in. If the Software is delivered in an archive format, this field applies=
+ to
+  the contents of the archive. If the word Limited is used with Source, as =
+in
+  “Limited Source” or “Limited Source and Binary” then only portions of the
+  Source for the application are provided. <o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style=3D'mso-yfti-irow:5;page-break-inside:avoid'>
+  <td style=3D'border:solid black 1.0pt;border-top:none;mso-border-top-alt:=
+solid black .75pt;
+  mso-border-alt:solid black .75pt;padding:3.75pt 3.75pt 3.75pt 3.75pt'>
+  <p class=3DMsoNormal style=3D'margin:0in;margin-bottom:.0001pt'><b><span
+  style=3D'font-size:10.0pt;font-family:"Verdana","sans-serif";mso-fareast-=
+font-family:
+  "Times New Roman"'>Modified by TI</span></b><span style=3D'font-size:10.0=
+pt;
+  font-family:"Verdana","sans-serif";mso-fareast-font-family:"Times New Rom=
+an"'>
+  <o:p></o:p></span></p>
+  </td>
+  <td style=3D'border-top:none;border-left:none;border-bottom:solid black 1=
+.0pt;
+  border-right:solid black 1.0pt;mso-border-top-alt:solid black .75pt;
+  mso-border-left-alt:solid black .75pt;mso-border-alt:solid black .75pt;
+  padding:3.75pt 3.75pt 3.75pt 3.75pt'>
+  <p class=3DMsoNormal style=3D'margin:0in;margin-bottom:.0001pt'><span
+  style=3D'font-size:10.0pt;font-family:"Verdana","sans-serif";mso-fareast-=
+font-family:
+  "Times New Roman"'>This field will either be “Yes” or “No”. A “Yes” means=
+ TI
+  has made changes to the Software. A “No” means TI has not made any change=
+s.
+  Note: This field is not applicable for Software “Obtained from” TI. <o:p>=
+</o:p></span></p>
+  </td>
+ </tr>
+ <tr style=3D'mso-yfti-irow:6;mso-yfti-lastrow:yes;page-break-inside:avoid'>
+  <td style=3D'border:solid black 1.0pt;border-top:none;mso-border-top-alt:=
+solid black .75pt;
+  mso-border-alt:solid black .75pt;padding:3.75pt 3.75pt 3.75pt 3.75pt'>
+  <p class=3DMsoNormal style=3D'margin:0in;margin-bottom:.0001pt'><b><span
+  style=3D'font-size:10.0pt;font-family:"Verdana","sans-serif";mso-fareast-=
+font-family:
+  "Times New Roman"'>Obtained from</span></b><span style=3D'font-size:10.0p=
+t;
+  font-family:"Verdana","sans-serif";mso-fareast-font-family:"Times New Rom=
+an"'>
+  <o:p></o:p></span></p>
+  </td>
+  <td style=3D'border-top:none;border-left:none;border-bottom:solid black 1=
+.0pt;
+  border-right:solid black 1.0pt;mso-border-top-alt:solid black .75pt;
+  mso-border-left-alt:solid black .75pt;mso-border-alt:solid black .75pt;
+  padding:3.75pt 3.75pt 3.75pt 3.75pt'>
+  <p class=3DMsoNormal style=3D'margin:0in;margin-bottom:.0001pt'><span
+  style=3D'font-size:10.0pt;font-family:"Verdana","sans-serif";mso-fareast-=
+font-family:
+  "Times New Roman"'>This field specifies from where or from whom TI obtain=
+ed
+  the Software. It may be a URL to an Open Source site, a 3<sup>rd</sup> pa=
+rty
+  licensor, or TI. See Links Disclaimer in the Disclaimers Section. <o:p></=
+o:p></span></p>
+  </td>
+ </tr>
+</table>
+
+</div>
+
+<div style=3D'margin-top:18.75pt;margin-bottom:18.75pt'>
+
+<h2><span style=3D'font-size:12.0pt;font-family:"Verdana","sans-serif";
+mso-fareast-font-family:"Times New Roman"'>Disclaimers<o:p></o:p></span></h=
+2>
+
+<h3><span style=3D'font-size:10.0pt;font-family:"Verdana","sans-serif";
+mso-fareast-font-family:"Times New Roman"'>Export Control Classification Nu=
+mber
+(ECCN)<o:p></o:p></span></h3>
+
+<p>Any use of ECCNs listed in the Manifest is at the user’s risk and without
+recourse to TI. Your company, as the exporter of record, is responsible for
+determining the correct classification of any item at the time of export. A=
+ny
+export classification by TI of Software is for TI’s internal use only and s=
+hall
+not be construed as a representation or warranty regarding the proper export
+classification for such Software or whether an export license or other
+documentation is required for exporting such Software</p>
+
+<h3><span style=3D'font-size:10.0pt;font-family:"Verdana","sans-serif";
+mso-fareast-font-family:"Times New Roman"'>Links in the Manifest<o:p></o:p>=
+</span></h3>
+
+<p>Any links appearing on this Manifest (for example in the “Obtained from”=
+ field)
+were verified at the time the Manifest was created. TI makes no guarantee t=
+hat
+any listed links will remain active in the future.</p>
+
+<h3><span style=3D'font-size:10.0pt;font-family:"Verdana","sans-serif";
+mso-fareast-font-family:"Times New Roman"'>Open Source License References<o=
+:p></o:p></span></h3>
+
+<p>Your company is responsible for confirming the applicable license terms =
+for
+any open source Software listed in this Manifest that was not “Obtained fro=
+m”
+TI. Any open source license specified in this Manifest for Software that was
+not “Obtained from” TI is for TI’s internal use only and shall not be const=
+rued
+as a representation or warranty regarding the proper open source license te=
+rms
+for such Software.</p>
+
+</div>
+
+<div style=3D'margin-top:18.75pt;margin-bottom:18.75pt'>
+
+<h2><span style=3D'font-size:12.0pt;font-family:"Verdana","sans-serif";
+mso-fareast-font-family:"Times New Roman"'>Export Information<o:p></o:p></s=
+pan></h2>
+
+<p>ECCN for Software included in this release:</p>
+
+<p class=3DMsoNormal style=3D'margin:0in;margin-bottom:.0001pt'><span
+style=3D'font-size:10.0pt;font-family:"Verdana","sans-serif";mso-fareast-fo=
+nt-family:
+"Times New Roman"'>3D991 (Embedded Software) <o:p></o:p></span></p>
+
+</div>
+
+<table class=3DMsoNormalTable border=3D1 cellspacing=3D0 cellpadding=3D0 wi=
+dth=3D"100%"
+ style=3D'width:100.0%;border-collapse:collapse;border:none;mso-border-alt:=
+solid black .75pt;
+ mso-yfti-tbllook:1184;mso-padding-alt:3.75pt 3.75pt 3.75pt 3.75pt'>
+ <tr style=3D'mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes;
+  page-break-inside:avoid'>
+  <td style=3D'border:solid black 1.0pt;mso-border-alt:solid black .75pt;
+  padding:3.75pt 3.75pt 3.75pt 3.75pt'>
+  <h2><span style=3D'font-size:12.0pt;font-family:"Verdana","sans-serif";
+  mso-fareast-font-family:"Times New Roman"'>C2000-MOTORWARE Manifest Table=
+ <o:p></o:p></span></h2>
+  <p>See the Legend above for a description of these columns. </p>
+  <table class=3DMsoNormalTable border=3D1 cellspacing=3D0 cellpadding=3D0 =
+width=3D"100%"
+   style=3D'width:100.0%;border-collapse:collapse;border:none;mso-border-al=
+t:
+   solid black .75pt;mso-yfti-tbllook:1184;mso-padding-alt:3.75pt 3.75pt 3.=
+75pt 3.75pt'>
+   <thead>
+    <tr style=3D'mso-yfti-irow:0;mso-yfti-firstrow:yes;page-break-inside:av=
+oid'>
+     <td style=3D'border:solid black 1.0pt;mso-border-alt:solid black .75pt;
+     padding:3.75pt 3.75pt 3.75pt 3.75pt'>
+     <p class=3DMsoNormal style=3D'margin:0in;margin-bottom:.0001pt'><b><sp=
+an
+     style=3D'font-size:10.0pt;font-family:"Verdana","sans-serif";mso-farea=
+st-font-family:
+     "Times New Roman"'>Software Name</span></b><span style=3D'font-size:10=
+.0pt;
+     font-family:"Verdana","sans-serif";mso-fareast-font-family:"Times New =
+Roman"'><o:p></o:p></span></p>
+     </td>
+     <td style=3D'border:solid black 1.0pt;border-left:none;mso-border-left=
+-alt:
+     solid black .75pt;mso-border-alt:solid black .75pt;padding:3.75pt 3.75=
+pt 3.75pt 3.75pt'>
+     <p class=3DMsoNormal style=3D'margin:0in;margin-bottom:.0001pt'><b><sp=
+an
+     style=3D'font-size:10.0pt;font-family:"Verdana","sans-serif";mso-farea=
+st-font-family:
+     "Times New Roman"'>Version</span></b><span style=3D'font-size:10.0pt;
+     font-family:"Verdana","sans-serif";mso-fareast-font-family:"Times New =
+Roman"'><o:p></o:p></span></p>
+     </td>
+     <td style=3D'border:solid black 1.0pt;border-left:none;mso-border-left=
+-alt:
+     solid black .75pt;mso-border-alt:solid black .75pt;padding:3.75pt 3.75=
+pt 3.75pt 3.75pt'>
+     <p class=3DMsoNormal style=3D'margin:0in;margin-bottom:.0001pt'><b><sp=
+an
+     style=3D'font-size:10.0pt;font-family:"Verdana","sans-serif";mso-farea=
+st-font-family:
+     "Times New Roman"'>License Type</span></b><span style=3D'font-size:10.=
+0pt;
+     font-family:"Verdana","sans-serif";mso-fareast-font-family:"Times New =
+Roman"'><o:p></o:p></span></p>
+     </td>
+     <td style=3D'border:solid black 1.0pt;border-left:none;mso-border-left=
+-alt:
+     solid black .75pt;mso-border-alt:solid black .75pt;padding:3.75pt 3.75=
+pt 3.75pt 3.75pt'>
+     <p class=3DMsoNormal style=3D'margin:0in;margin-bottom:.0001pt'><b><sp=
+an
+     style=3D'font-size:10.0pt;font-family:"Verdana","sans-serif";mso-farea=
+st-font-family:
+     "Times New Roman"'>Delivered As</span></b><span style=3D'font-size:10.=
+0pt;
+     font-family:"Verdana","sans-serif";mso-fareast-font-family:"Times New =
+Roman"'><o:p></o:p></span></p>
+     </td>
+     <td style=3D'border:solid black 1.0pt;border-left:none;mso-border-left=
+-alt:
+     solid black .75pt;mso-border-alt:solid black .75pt;padding:3.75pt 3.75=
+pt 3.75pt 3.75pt'>
+     <p class=3DMsoNormal style=3D'margin:0in;margin-bottom:.0001pt'><b><sp=
+an
+     style=3D'font-size:10.0pt;font-family:"Verdana","sans-serif";mso-farea=
+st-font-family:
+     "Times New Roman"'>Modified by TI</span></b><span style=3D'font-size:1=
+0.0pt;
+     font-family:"Verdana","sans-serif";mso-fareast-font-family:"Times New =
+Roman"'><o:p></o:p></span></p>
+     </td>
+     <td style=3D'border:solid black 1.0pt;border-left:none;mso-border-left=
+-alt:
+     solid black .75pt;mso-border-alt:solid black .75pt;padding:3.75pt 3.75=
+pt 3.75pt 3.75pt'></td>
+     <td style=3D'border:solid black 1.0pt;border-left:none;mso-border-left=
+-alt:
+     solid black .75pt;mso-border-alt:solid black .75pt;padding:3.75pt 3.75=
+pt 3.75pt 3.75pt'></td>
+    </tr>
+   </thead>
+   <tr style=3D'mso-yfti-irow:1;page-break-inside:avoid'>
+    <td rowspan=3D2 style=3D'border:solid black 1.0pt;border-top:none;mso-b=
+order-top-alt:
+    solid black .75pt;mso-border-alt:solid black .75pt;padding:3.75pt 3.75p=
+t 3.75pt 3.75pt'>
+    <p class=3DMsoNormal style=3D'margin:0in;margin-bottom:.0001pt'><span
+    style=3D'font-size:10.0pt;font-family:"Verdana","sans-serif";mso-fareas=
+t-font-family:
+    "Times New Roman"'>C2000-MOTORWARE <o:p></o:p></span></p>
+    </td>
+    <td rowspan=3D2 style=3D'border-top:none;border-left:none;border-bottom=
+:solid black 1.0pt;
+    border-right:solid black 1.0pt;mso-border-top-alt:solid black .75pt;
+    mso-border-left-alt:solid black .75pt;mso-border-alt:solid black .75pt;
+    padding:3.75pt 3.75pt 3.75pt 3.75pt'>
+    <p class=3DMsoNormal style=3D'margin:0in;margin-bottom:.0001pt'><span
+    style=3D'font-size:10.0pt;font-family:"Verdana","sans-serif";mso-fareas=
+t-font-family:
+    "Times New Roman"'>1_01_00_18 <o:p></o:p></span></p>
+    </td>
+    <td rowspan=3D2 style=3D'border-top:none;border-left:none;border-bottom=
+:solid black 1.0pt;
+    border-right:solid black 1.0pt;mso-border-top-alt:solid black .75pt;
+    mso-border-left-alt:solid black .75pt;mso-border-alt:solid black .75pt;
+    padding:3.75pt 3.75pt 3.75pt 3.75pt'>
+    <p class=3DMsoNormal style=3D'margin:0in;margin-bottom:.0001pt'><span
+    style=3D'font-size:10.0pt;font-family:"Verdana","sans-serif";mso-fareas=
+t-font-family:
+    "Times New Roman"'>BSD-3-Clause <o:p></o:p></span></p>
+    </td>
+    <td rowspan=3D2 style=3D'border-top:none;border-left:none;border-bottom=
+:solid black 1.0pt;
+    border-right:solid black 1.0pt;mso-border-top-alt:solid black .75pt;
+    mso-border-left-alt:solid black .75pt;mso-border-alt:solid black .75pt;
+    padding:3.75pt 3.75pt 3.75pt 3.75pt'>
+    <p class=3DMsoNormal style=3D'margin:0in;margin-bottom:.0001pt'><span
+    style=3D'font-size:10.0pt;font-family:"Verdana","sans-serif";mso-fareas=
+t-font-family:
+    "Times New Roman"'>Source and Binary <o:p></o:p></span></p>
+    </td>
+    <td rowspan=3D2 style=3D'border-top:none;border-left:none;border-bottom=
+:solid black 1.0pt;
+    border-right:solid black 1.0pt;mso-border-top-alt:solid black .75pt;
+    mso-border-left-alt:solid black .75pt;mso-border-alt:solid black .75pt;
+    padding:3.75pt 3.75pt 3.75pt 3.75pt'>
+    <p class=3DMsoNormal style=3D'margin:0in;margin-bottom:.0001pt'><span
+    style=3D'font-size:10.0pt;font-family:"Verdana","sans-serif";mso-fareas=
+t-font-family:
+    "Times New Roman"'>N/A <o:p></o:p></span></p>
+    </td>
+    <td style=3D'border-top:none;border-left:none;border-bottom:solid black=
+ 1.0pt;
+    border-right:solid black 1.0pt;mso-border-top-alt:solid black .75pt;
+    mso-border-left-alt:solid black .75pt;mso-border-alt:solid black .75pt;
+    padding:3.75pt 3.75pt 3.75pt 3.75pt'>
+    <p class=3DMsoNormal style=3D'margin:0in;margin-bottom:.0001pt'><b><span
+    style=3D'font-size:10.0pt;font-family:"Verdana","sans-serif";mso-fareas=
+t-font-family:
+    "Times New Roman"'>Location</span></b><span style=3D'font-size:10.0pt;
+    font-family:"Verdana","sans-serif";mso-fareast-font-family:"Times New R=
+oman"'><o:p></o:p></span></p>
+    </td>
+    <td style=3D'border-top:none;border-left:none;border-bottom:solid black=
+ 1.0pt;
+    border-right:solid black 1.0pt;mso-border-top-alt:solid black .75pt;
+    mso-border-left-alt:solid black .75pt;mso-border-alt:solid black .75pt;
+    padding:3.75pt 3.75pt 3.75pt 3.75pt'>
+    <p class=3DMsoNormal style=3D'margin:0in;margin-bottom:.0001pt'><span
+    style=3D'font-size:10.0pt;font-family:"Verdana","sans-serif";mso-fareas=
+t-font-family:
+    "Times New Roman"'>/<span class=3DSpellE>sw</span> /~<span class=3DSpel=
+lE>mw_explorer</span>
+    <o:p></o:p></span></p>
+    </td>
+   </tr>
+   <tr style=3D'mso-yfti-irow:2;page-break-inside:avoid'>
+    <td style=3D'border-top:none;border-left:none;border-bottom:solid black=
+ 1.0pt;
+    border-right:solid black 1.0pt;mso-border-top-alt:solid black .75pt;
+    mso-border-left-alt:solid black .75pt;mso-border-alt:solid black .75pt;
+    padding:3.75pt 3.75pt 3.75pt 3.75pt'>
+    <p class=3DMsoNormal style=3D'margin:0in;margin-bottom:.0001pt'><b><span
+    style=3D'font-size:10.0pt;font-family:"Verdana","sans-serif";mso-fareas=
+t-font-family:
+    "Times New Roman"'>Obtained from</span></b><span style=3D'font-size:10.=
+0pt;
+    font-family:"Verdana","sans-serif";mso-fareast-font-family:"Times New R=
+oman"'><o:p></o:p></span></p>
+    </td>
+    <td style=3D'border-top:none;border-left:none;border-bottom:solid black=
+ 1.0pt;
+    border-right:solid black 1.0pt;mso-border-top-alt:solid black .75pt;
+    mso-border-left-alt:solid black .75pt;mso-border-alt:solid black .75pt;
+    padding:3.75pt 3.75pt 3.75pt 3.75pt'>
+    <p class=3DMsoNormal style=3D'margin:0in;margin-bottom:.0001pt'><span
+    style=3D'font-size:10.0pt;font-family:"Verdana","sans-serif";mso-fareas=
+t-font-family:
+    "Times New Roman"'>Texas Instruments <o:p></o:p></span></p>
+    </td>
+   </tr>
+   <tr style=3D'mso-yfti-irow:3;page-break-inside:avoid'>
+    <td rowspan=3D2 style=3D'border:solid black 1.0pt;border-top:none;mso-b=
+order-top-alt:
+    solid black .75pt;mso-border-alt:solid black .75pt;padding:3.75pt 3.75p=
+t 3.75pt 3.75pt'>
+    <p class=3DMsoNormal style=3D'margin:0in;margin-bottom:.0001pt'><span
+    style=3D'font-size:10.0pt;font-family:"Verdana","sans-serif";mso-fareas=
+t-font-family:
+    "Times New Roman"'>Eclipse Platform <o:p></o:p></span></p>
+    </td>
+    <td rowspan=3D2 style=3D'border-top:none;border-left:none;border-bottom=
+:solid black 1.0pt;
+    border-right:solid black 1.0pt;mso-border-top-alt:solid black .75pt;
+    mso-border-left-alt:solid black .75pt;mso-border-alt:solid black .75pt;
+    padding:3.75pt 3.75pt 3.75pt 3.75pt'>
+    <p class=3DMsoNormal style=3D'margin:0in;margin-bottom:.0001pt'><span
+    style=3D'font-size:10.0pt;font-family:"Verdana","sans-serif";mso-fareas=
+t-font-family:
+    "Times New Roman"'>3.8 <o:p></o:p></span></p>
+    </td>
+    <td rowspan=3D2 style=3D'border-top:none;border-left:none;border-bottom=
+:solid black 1.0pt;
+    border-right:solid black 1.0pt;mso-border-top-alt:solid black .75pt;
+    mso-border-left-alt:solid black .75pt;mso-border-alt:solid black .75pt;
+    padding:3.75pt 3.75pt 3.75pt 3.75pt'>
+    <p class=3DMsoNormal style=3D'margin:0in;margin-bottom:.0001pt'><span
+    style=3D'font-size:10.0pt;font-family:"Verdana","sans-serif";mso-fareas=
+t-font-family:
+    "Times New Roman"'>Eclipse Public License 1.0 <o:p></o:p></span></p>
+    </td>
+    <td rowspan=3D2 style=3D'border-top:none;border-left:none;border-bottom=
+:solid black 1.0pt;
+    border-right:solid black 1.0pt;mso-border-top-alt:solid black .75pt;
+    mso-border-left-alt:solid black .75pt;mso-border-alt:solid black .75pt;
+    padding:3.75pt 3.75pt 3.75pt 3.75pt'>
+    <p class=3DMsoNormal style=3D'margin:0in;margin-bottom:.0001pt'><span
+    style=3D'font-size:10.0pt;font-family:"Verdana","sans-serif";mso-fareas=
+t-font-family:
+    "Times New Roman"'>Binary <o:p></o:p></span></p>
+    </td>
+    <td rowspan=3D2 style=3D'border-top:none;border-left:none;border-bottom=
+:solid black 1.0pt;
+    border-right:solid black 1.0pt;mso-border-top-alt:solid black .75pt;
+    mso-border-left-alt:solid black .75pt;mso-border-alt:solid black .75pt;
+    padding:3.75pt 3.75pt 3.75pt 3.75pt'>
+    <p class=3DMsoNormal style=3D'margin:0in;margin-bottom:.0001pt'><span
+    style=3D'font-size:10.0pt;font-family:"Verdana","sans-serif";mso-fareas=
+t-font-family:
+    "Times New Roman"'>No <o:p></o:p></span></p>
+    </td>
+    <td style=3D'border-top:none;border-left:none;border-bottom:solid black=
+ 1.0pt;
+    border-right:solid black 1.0pt;mso-border-top-alt:solid black .75pt;
+    mso-border-left-alt:solid black .75pt;mso-border-alt:solid black .75pt;
+    padding:3.75pt 3.75pt 3.75pt 3.75pt'>
+    <p class=3DMsoNormal style=3D'margin:0in;margin-bottom:.0001pt'><b><span
+    style=3D'font-size:10.0pt;font-family:"Verdana","sans-serif";mso-fareas=
+t-font-family:
+    "Times New Roman"'>Location</span></b><span style=3D'font-size:10.0pt;
+    font-family:"Verdana","sans-serif";mso-fareast-font-family:"Times New R=
+oman"'><o:p></o:p></span></p>
+    </td>
+    <td style=3D'border-top:none;border-left:none;border-bottom:solid black=
+ 1.0pt;
+    border-right:solid black 1.0pt;mso-border-top-alt:solid black .75pt;
+    mso-border-left-alt:solid black .75pt;mso-border-alt:solid black .75pt;
+    padding:3.75pt 3.75pt 3.75pt 3.75pt'>
+    <p class=3DMsoNormal style=3D'margin:0in;margin-bottom:.0001pt'><span
+    style=3D'font-size:10.0pt;font-family:"Verdana","sans-serif";mso-fareas=
+t-font-family:
+    "Times New Roman"'>/eclipse <o:p></o:p></span></p>
+    </td>
+   </tr>
+   <tr style=3D'mso-yfti-irow:4;page-break-inside:avoid'>
+    <td style=3D'border-top:none;border-left:none;border-bottom:solid black=
+ 1.0pt;
+    border-right:solid black 1.0pt;mso-border-top-alt:solid black .75pt;
+    mso-border-left-alt:solid black .75pt;mso-border-alt:solid black .75pt;
+    padding:3.75pt 3.75pt 3.75pt 3.75pt'>
+    <p class=3DMsoNormal style=3D'margin:0in;margin-bottom:.0001pt'><b><span
+    style=3D'font-size:10.0pt;font-family:"Verdana","sans-serif";mso-fareas=
+t-font-family:
+    "Times New Roman"'>Obtained from</span></b><span style=3D'font-size:10.=
+0pt;
+    font-family:"Verdana","sans-serif";mso-fareast-font-family:"Times New R=
+oman"'><o:p></o:p></span></p>
+    </td>
+    <td style=3D'border-top:none;border-left:none;border-bottom:solid black=
+ 1.0pt;
+    border-right:solid black 1.0pt;mso-border-top-alt:solid black .75pt;
+    mso-border-left-alt:solid black .75pt;mso-border-alt:solid black .75pt;
+    padding:3.75pt 3.75pt 3.75pt 3.75pt'>
+    <p class=3DMsoNormal style=3D'margin:0in;margin-bottom:.0001pt'><span
+    style=3D'font-size:10.0pt;font-family:"Verdana","sans-serif";mso-fareas=
+t-font-family:
+    "Times New Roman"'>http://www.eclipse.org/downloads/packages/release/ju=
+no/ <o:p></o:p></span></p>
+    </td>
+   </tr>
+   <tr style=3D'mso-yfti-irow:5;page-break-inside:avoid'>
+    <td rowspan=3D2 style=3D'border:solid black 1.0pt;border-top:none;mso-b=
+order-top-alt:
+    solid black .75pt;mso-border-alt:solid black .75pt;padding:3.75pt 3.75p=
+t 3.75pt 3.75pt'>
+    <p class=3DMsoNormal style=3D'margin:0in;margin-bottom:.0001pt'><span
+    style=3D'font-size:10.0pt;font-family:"Verdana","sans-serif";mso-fareas=
+t-font-family:
+    "Times New Roman"'>TI Resource Explorer Eclipse plugins <o:p></o:p></sp=
+an></p>
+    </td>
+    <td rowspan=3D2 style=3D'border-top:none;border-left:none;border-bottom=
+:solid black 1.0pt;
+    border-right:solid black 1.0pt;mso-border-top-alt:solid black .75pt;
+    mso-border-left-alt:solid black .75pt;mso-border-alt:solid black .75pt;
+    padding:3.75pt 3.75pt 3.75pt 3.75pt'>
+    <p class=3DMsoNormal style=3D'margin:0in;margin-bottom:.0001pt'><span
+    style=3D'font-size:10.0pt;font-family:"Verdana","sans-serif";mso-fareas=
+t-font-family:
+    "Times New Roman"'>5.3 <o:p></o:p></span></p>
+    </td>
+    <td rowspan=3D2 style=3D'border-top:none;border-left:none;border-bottom=
+:solid black 1.0pt;
+    border-right:solid black 1.0pt;mso-border-top-alt:solid black .75pt;
+    mso-border-left-alt:solid black .75pt;mso-border-alt:solid black .75pt;
+    padding:3.75pt 3.75pt 3.75pt 3.75pt'>
+    <p class=3DMsoNormal style=3D'margin:0in;margin-bottom:.0001pt'><span
+    style=3D'font-size:10.0pt;font-family:"Verdana","sans-serif";mso-fareas=
+t-font-family:
+    "Times New Roman"'>Eclipse Public License 1.0 <o:p></o:p></span></p>
+    </td>
+    <td rowspan=3D2 style=3D'border-top:none;border-left:none;border-bottom=
+:solid black 1.0pt;
+    border-right:solid black 1.0pt;mso-border-top-alt:solid black .75pt;
+    mso-border-left-alt:solid black .75pt;mso-border-alt:solid black .75pt;
+    padding:3.75pt 3.75pt 3.75pt 3.75pt'>
+    <p class=3DMsoNormal style=3D'margin:0in;margin-bottom:.0001pt'><span
+    style=3D'font-size:10.0pt;font-family:"Verdana","sans-serif";mso-fareas=
+t-font-family:
+    "Times New Roman"'>Binary <o:p></o:p></span></p>
+    </td>
+    <td rowspan=3D2 style=3D'border-top:none;border-left:none;border-bottom=
+:solid black 1.0pt;
+    border-right:solid black 1.0pt;mso-border-top-alt:solid black .75pt;
+    mso-border-left-alt:solid black .75pt;mso-border-alt:solid black .75pt;
+    padding:3.75pt 3.75pt 3.75pt 3.75pt'>
+    <p class=3DMsoNormal style=3D'margin:0in;margin-bottom:.0001pt'><span
+    style=3D'font-size:10.0pt;font-family:"Verdana","sans-serif";mso-fareas=
+t-font-family:
+    "Times New Roman"'>Yes <o:p></o:p></span></p>
+    </td>
+    <td style=3D'border-top:none;border-left:none;border-bottom:solid black=
+ 1.0pt;
+    border-right:solid black 1.0pt;mso-border-top-alt:solid black .75pt;
+    mso-border-left-alt:solid black .75pt;mso-border-alt:solid black .75pt;
+    padding:3.75pt 3.75pt 3.75pt 3.75pt'>
+    <p class=3DMsoNormal style=3D'margin:0in;margin-bottom:.0001pt'><b><span
+    style=3D'font-size:10.0pt;font-family:"Verdana","sans-serif";mso-fareas=
+t-font-family:
+    "Times New Roman"'>Location</span></b><span style=3D'font-size:10.0pt;
+    font-family:"Verdana","sans-serif";mso-fareast-font-family:"Times New R=
+oman"'><o:p></o:p></span></p>
+    </td>
+    <td style=3D'border-top:none;border-left:none;border-bottom:solid black=
+ 1.0pt;
+    border-right:solid black 1.0pt;mso-border-top-alt:solid black .75pt;
+    mso-border-left-alt:solid black .75pt;mso-border-alt:solid black .75pt;
+    padding:3.75pt 3.75pt 3.75pt 3.75pt'>
+    <p class=3DMsoNormal style=3D'margin:0in;margin-bottom:.0001pt'><span
+    style=3D'font-size:10.0pt;font-family:"Verdana","sans-serif";mso-fareas=
+t-font-family:
+    "Times New Roman"'>/eclipse/plugins/com.ti.* <o:p></o:p></span></p>
+    </td>
+   </tr>
+   <tr style=3D'mso-yfti-irow:6;page-break-inside:avoid'>
+    <td style=3D'border-top:none;border-left:none;border-bottom:solid black=
+ 1.0pt;
+    border-right:solid black 1.0pt;mso-border-top-alt:solid black .75pt;
+    mso-border-left-alt:solid black .75pt;mso-border-alt:solid black .75pt;
+    padding:3.75pt 3.75pt 3.75pt 3.75pt'>
+    <p class=3DMsoNormal style=3D'margin:0in;margin-bottom:.0001pt'><b><span
+    style=3D'font-size:10.0pt;font-family:"Verdana","sans-serif";mso-fareas=
+t-font-family:
+    "Times New Roman"'>Obtained from</span></b><span style=3D'font-size:10.=
+0pt;
+    font-family:"Verdana","sans-serif";mso-fareast-font-family:"Times New R=
+oman"'><o:p></o:p></span></p>
+    </td>
+    <td style=3D'border-top:none;border-left:none;border-bottom:solid black=
+ 1.0pt;
+    border-right:solid black 1.0pt;mso-border-top-alt:solid black .75pt;
+    mso-border-left-alt:solid black .75pt;mso-border-alt:solid black .75pt;
+    padding:3.75pt 3.75pt 3.75pt 3.75pt'>
+    <p class=3DMsoNormal style=3D'margin:0in;margin-bottom:.0001pt'><span
+    style=3D'font-size:10.0pt;font-family:"Verdana","sans-serif";mso-fareas=
+t-font-family:
+    "Times New Roman"'>TI <o:p></o:p></span></p>
+    </td>
+   </tr>
+   <tr style=3D'mso-yfti-irow:7;page-break-inside:avoid'>
+    <td rowspan=3D2 style=3D'border:solid black 1.0pt;border-top:none;mso-b=
+order-top-alt:
+    solid black .75pt;mso-border-alt:solid black .75pt;padding:3.75pt 3.75p=
+t 3.75pt 3.75pt'>
+    <p class=3DMsoNormal style=3D'margin:0in;margin-bottom:.0001pt'><span
+    style=3D'font-size:10.0pt;font-family:"Verdana","sans-serif";mso-fareas=
+t-font-family:
+    "Times New Roman"'>TI Resource Explorer executable <o:p></o:p></span></=
+p>
+    </td>
+    <td rowspan=3D2 style=3D'border-top:none;border-left:none;border-bottom=
+:solid black 1.0pt;
+    border-right:solid black 1.0pt;mso-border-top-alt:solid black .75pt;
+    mso-border-left-alt:solid black .75pt;mso-border-alt:solid black .75pt;
+    padding:3.75pt 3.75pt 3.75pt 3.75pt'>
+    <p class=3DMsoNormal style=3D'margin:0in;margin-bottom:.0001pt'><span
+    style=3D'font-size:10.0pt;font-family:"Verdana","sans-serif";mso-fareas=
+t-font-family:
+    "Times New Roman"'>5.3 <o:p></o:p></span></p>
+    </td>
+    <td rowspan=3D2 style=3D'border-top:none;border-left:none;border-bottom=
+:solid black 1.0pt;
+    border-right:solid black 1.0pt;mso-border-top-alt:solid black .75pt;
+    mso-border-left-alt:solid black .75pt;mso-border-alt:solid black .75pt;
+    padding:3.75pt 3.75pt 3.75pt 3.75pt'>
+    <p class=3DMsoNormal style=3D'margin:0in;margin-bottom:.0001pt'><span
+    style=3D'font-size:10.0pt;font-family:"Verdana","sans-serif";mso-fareas=
+t-font-family:
+    "Times New Roman"'>Eclipse Public License 1.0 <o:p></o:p></span></p>
+    </td>
+    <td rowspan=3D2 style=3D'border-top:none;border-left:none;border-bottom=
+:solid black 1.0pt;
+    border-right:solid black 1.0pt;mso-border-top-alt:solid black .75pt;
+    mso-border-left-alt:solid black .75pt;mso-border-alt:solid black .75pt;
+    padding:3.75pt 3.75pt 3.75pt 3.75pt'>
+    <p class=3DMsoNormal style=3D'margin:0in;margin-bottom:.0001pt'><span
+    style=3D'font-size:10.0pt;font-family:"Verdana","sans-serif";mso-fareas=
+t-font-family:
+    "Times New Roman"'>Binary <o:p></o:p></span></p>
+    </td>
+    <td rowspan=3D2 style=3D'border-top:none;border-left:none;border-bottom=
+:solid black 1.0pt;
+    border-right:solid black 1.0pt;mso-border-top-alt:solid black .75pt;
+    mso-border-left-alt:solid black .75pt;mso-border-alt:solid black .75pt;
+    padding:3.75pt 3.75pt 3.75pt 3.75pt'>
+    <p class=3DMsoNormal style=3D'margin:0in;margin-bottom:.0001pt'><span
+    style=3D'font-size:10.0pt;font-family:"Verdana","sans-serif";mso-fareas=
+t-font-family:
+    "Times New Roman"'>Yes <o:p></o:p></span></p>
+    </td>
+    <td style=3D'border-top:none;border-left:none;border-bottom:solid black=
+ 1.0pt;
+    border-right:solid black 1.0pt;mso-border-top-alt:solid black .75pt;
+    mso-border-left-alt:solid black .75pt;mso-border-alt:solid black .75pt;
+    padding:3.75pt 3.75pt 3.75pt 3.75pt'>
+    <p class=3DMsoNormal style=3D'margin:0in;margin-bottom:.0001pt'><b><span
+    style=3D'font-size:10.0pt;font-family:"Verdana","sans-serif";mso-fareas=
+t-font-family:
+    "Times New Roman"'>Location</span></b><span style=3D'font-size:10.0pt;
+    font-family:"Verdana","sans-serif";mso-fareast-font-family:"Times New R=
+oman"'><o:p></o:p></span></p>
+    </td>
+    <td style=3D'border-top:none;border-left:none;border-bottom:solid black=
+ 1.0pt;
+    border-right:solid black 1.0pt;mso-border-top-alt:solid black .75pt;
+    mso-border-left-alt:solid black .75pt;mso-border-alt:solid black .75pt;
+    padding:3.75pt 3.75pt 3.75pt 3.75pt'>
+    <p class=3DMsoNormal style=3D'margin:0in;margin-bottom:.0001pt'><span
+    style=3D'font-size:10.0pt;font-family:"Verdana","sans-serif";mso-fareas=
+t-font-family:
+    "Times New Roman"'>/eclipse/MotorWare.exe <o:p></o:p></span></p>
+    </td>
+   </tr>
+   <tr style=3D'mso-yfti-irow:8;page-break-inside:avoid'>
+    <td style=3D'border-top:none;border-left:none;border-bottom:solid black=
+ 1.0pt;
+    border-right:solid black 1.0pt;mso-border-top-alt:solid black .75pt;
+    mso-border-left-alt:solid black .75pt;mso-border-alt:solid black .75pt;
+    padding:3.75pt 3.75pt 3.75pt 3.75pt'>
+    <p class=3DMsoNormal style=3D'margin:0in;margin-bottom:.0001pt'><b><span
+    style=3D'font-size:10.0pt;font-family:"Verdana","sans-serif";mso-fareas=
+t-font-family:
+    "Times New Roman"'>Obtained from</span></b><span style=3D'font-size:10.=
+0pt;
+    font-family:"Verdana","sans-serif";mso-fareast-font-family:"Times New R=
+oman"'><o:p></o:p></span></p>
+    </td>
+    <td style=3D'border-top:none;border-left:none;border-bottom:solid black=
+ 1.0pt;
+    border-right:solid black 1.0pt;mso-border-top-alt:solid black .75pt;
+    mso-border-left-alt:solid black .75pt;mso-border-alt:solid black .75pt;
+    padding:3.75pt 3.75pt 3.75pt 3.75pt'>
+    <p class=3DMsoNormal style=3D'margin:0in;margin-bottom:.0001pt'><span
+    style=3D'font-size:10.0pt;font-family:"Verdana","sans-serif";mso-fareas=
+t-font-family:
+    "Times New Roman"'>TI <o:p></o:p></span></p>
+    </td>
+   </tr>
+   <tr style=3D'mso-yfti-irow:9;page-break-inside:avoid'>
+    <td rowspan=3D2 style=3D'border:solid black 1.0pt;border-top:none;mso-b=
+order-top-alt:
+    solid black .75pt;mso-border-alt:solid black .75pt;padding:3.75pt 3.75p=
+t 3.75pt 3.75pt'>
+    <p class=3DMsoNormal style=3D'margin:0in;margin-bottom:.0001pt'><span
+    style=3D'font-size:10.0pt;font-family:"Verdana","sans-serif";mso-fareas=
+t-font-family:
+    "Times New Roman"'>Jquery.js <o:p></o:p></span></p>
+    </td>
+    <td rowspan=3D2 style=3D'border-top:none;border-left:none;border-bottom=
+:solid black 1.0pt;
+    border-right:solid black 1.0pt;mso-border-top-alt:solid black .75pt;
+    mso-border-left-alt:solid black .75pt;mso-border-alt:solid black .75pt;
+    padding:3.75pt 3.75pt 3.75pt 3.75pt'>
+    <p class=3DMsoNormal style=3D'margin:0in;margin-bottom:.0001pt'><span
+    class=3DSpellE><span style=3D'font-size:10.0pt;font-family:"Verdana","s=
+ans-serif";
+    mso-fareast-font-family:"Times New Roman"'>jQueryJavaScript</span></spa=
+n><span
+    style=3D'font-size:10.0pt;font-family:"Verdana","sans-serif";mso-fareas=
+t-font-family:
+    "Times New Roman"'> Library v1.3.2, Sizzle CSS Selector Engine - v0.9.3,
+    jQuery UI 1.7.2, <span class=3DSpellE>jQuery.ScrollTo</span> 1.3.2 <o:p=
+></o:p></span></p>
+    </td>
+    <td rowspan=3D2 style=3D'border-top:none;border-left:none;border-bottom=
+:solid black 1.0pt;
+    border-right:solid black 1.0pt;mso-border-top-alt:solid black .75pt;
+    mso-border-left-alt:solid black .75pt;mso-border-alt:solid black .75pt;
+    padding:3.75pt 3.75pt 3.75pt 3.75pt'>
+    <p class=3DMsoNormal style=3D'margin:0in;margin-bottom:.0001pt'><span
+    style=3D'font-size:10.0pt;font-family:"Verdana","sans-serif";mso-fareas=
+t-font-family:
+    "Times New Roman"'>MIT <o:p></o:p></span></p>
+    </td>
+    <td rowspan=3D2 style=3D'border-top:none;border-left:none;border-bottom=
+:solid black 1.0pt;
+    border-right:solid black 1.0pt;mso-border-top-alt:solid black .75pt;
+    mso-border-left-alt:solid black .75pt;mso-border-alt:solid black .75pt;
+    padding:3.75pt 3.75pt 3.75pt 3.75pt'>
+    <p class=3DMsoNormal style=3D'margin:0in;margin-bottom:.0001pt'><span
+    style=3D'font-size:10.0pt;font-family:"Verdana","sans-serif";mso-fareas=
+t-font-family:
+    "Times New Roman"'>Source <o:p></o:p></span></p>
+    </td>
+    <td rowspan=3D2 style=3D'border-top:none;border-left:none;border-bottom=
+:solid black 1.0pt;
+    border-right:solid black 1.0pt;mso-border-top-alt:solid black .75pt;
+    mso-border-left-alt:solid black .75pt;mso-border-alt:solid black .75pt;
+    padding:3.75pt 3.75pt 3.75pt 3.75pt'>
+    <p class=3DMsoNormal style=3D'margin:0in;margin-bottom:.0001pt'><span
+    style=3D'font-size:10.0pt;font-family:"Verdana","sans-serif";mso-fareas=
+t-font-family:
+    "Times New Roman"'>No <o:p></o:p></span></p>
+    </td>
+    <td style=3D'border-top:none;border-left:none;border-bottom:solid black=
+ 1.0pt;
+    border-right:solid black 1.0pt;mso-border-top-alt:solid black .75pt;
+    mso-border-left-alt:solid black .75pt;mso-border-alt:solid black .75pt;
+    padding:3.75pt 3.75pt 3.75pt 3.75pt'>
+    <p class=3DMsoNormal style=3D'margin:0in;margin-bottom:.0001pt'><b><span
+    style=3D'font-size:10.0pt;font-family:"Verdana","sans-serif";mso-fareas=
+t-font-family:
+    "Times New Roman"'>Location</span></b><span style=3D'font-size:10.0pt;
+    font-family:"Verdana","sans-serif";mso-fareast-font-family:"Times New R=
+oman"'><o:p></o:p></span></p>
+    </td>
+    <td style=3D'border-top:none;border-left:none;border-bottom:solid black=
+ 1.0pt;
+    border-right:solid black 1.0pt;mso-border-top-alt:solid black .75pt;
+    mso-border-left-alt:solid black .75pt;mso-border-alt:solid black .75pt;
+    padding:3.75pt 3.75pt 3.75pt 3.75pt'>
+    <p class=3DMsoNormal style=3D'margin:0in;margin-bottom:.0001pt'><span
+    style=3D'font-size:10.0pt;font-family:"Verdana","sans-serif";mso-fareas=
+t-font-family:
+    "Times New Roman"'>Jquery.js in doc directories <o:p></o:p></span></p>
+    </td>
+   </tr>
+   <tr style=3D'mso-yfti-irow:10;mso-yfti-lastrow:yes;page-break-inside:avo=
+id'>
+    <td style=3D'border-top:none;border-left:none;border-bottom:solid black=
+ 1.0pt;
+    border-right:solid black 1.0pt;mso-border-top-alt:solid black .75pt;
+    mso-border-left-alt:solid black .75pt;mso-border-alt:solid black .75pt;
+    padding:3.75pt 3.75pt 3.75pt 3.75pt'>
+    <p class=3DMsoNormal style=3D'margin:0in;margin-bottom:.0001pt'><b><span
+    style=3D'font-size:10.0pt;font-family:"Verdana","sans-serif";mso-fareas=
+t-font-family:
+    "Times New Roman"'>Obtained from</span></b><span style=3D'font-size:10.=
+0pt;
+    font-family:"Verdana","sans-serif";mso-fareast-font-family:"Times New R=
+oman"'><o:p></o:p></span></p>
+    </td>
+    <td style=3D'border-top:none;border-left:none;border-bottom:solid black=
+ 1.0pt;
+    border-right:solid black 1.0pt;mso-border-top-alt:solid black .75pt;
+    mso-border-left-alt:solid black .75pt;mso-border-alt:solid black .75pt;
+    padding:3.75pt 3.75pt 3.75pt 3.75pt'>
+    <p class=3DMsoNormal style=3D'margin:0in;margin-bottom:.0001pt'><span
+    style=3D'font-size:10.0pt;font-family:"Verdana","sans-serif";mso-fareas=
+t-font-family:
+    "Times New Roman"'>Output form <span class=3DSpellE>doxygen</span> <o:p=
+></o:p></span></p>
+    </td>
+   </tr>
+  </table>
+  <div style=3D'margin-top:18.75pt;margin-bottom:18.75pt'>
+  <h2><span style=3D'font-size:12.0pt;font-family:"Verdana","sans-serif";
+  mso-fareast-font-family:"Times New Roman"'>Credits<o:p></o:p></span></h2>
+  <p class=3DMsoNormal style=3D'margin-top:0in;margin-right:0in;margin-bott=
+om:12.0pt;
+  margin-left:0in'><span style=3D'font-size:10.0pt;font-family:"Verdana","s=
+ans-serif";
+  mso-fareast-font-family:"Times New Roman"'><br>
+  <br>
+  <br style=3D'mso-special-character:line-break'>
+  <![if !supportLineBreakNewLine]><br style=3D'mso-special-character:line-b=
+reak'>
+  <![endif]><o:p></o:p></span></p>
+  </div>
+  <div style=3D'margin-top:18.75pt;margin-bottom:18.75pt'>
+  <h2><span style=3D'font-size:12.0pt;font-family:"Verdana","sans-serif";
+  mso-fareast-font-family:"Times New Roman"'>Licenses<o:p></o:p></span></h2>
+  <p class=3DMsoNormal style=3D'margin:0in;margin-bottom:.0001pt'><span
+  style=3D'font-size:10.0pt;font-family:"Verdana","sans-serif";mso-fareast-=
+font-family:
+  "Times New Roman"'><o:p>&nbsp;</o:p></span></p>
+  <h3><span style=3D'font-size:10.0pt;font-family:"Verdana","sans-serif";
+  mso-fareast-font-family:"Times New Roman"'>C2000-MOTORWARE Licenses <o:p>=
+</o:p></span></h3>
+  <p class=3DMsoNormal style=3D'margin-top:0in;margin-right:0in;margin-bott=
+om:12.0pt;
+  margin-left:0in'><span style=3D'font-size:10.0pt;font-family:"Verdana","s=
+ans-serif";
+  mso-fareast-font-family:"Times New Roman"'><br>
+  <br>
+  <br>
+  BSD-3-Clause<br>
+  <br>
+  Copyright (c) 2015, Texas Instruments Incorporated&nbsp;<br>
+  All rights reserved.&nbsp;<br>
+  <br>
+  Redistribution and use in source and binary forms, with or without&nbsp;<=
+br>
+  modification, are permitted provided that the following conditions&nbsp;<=
+br>
+  are met:&nbsp;<br>
+  <br>
+  * Redistributions of source code must retain the above copyright&nbsp;<br>
+  notice, this list of conditions and the following disclaimer.&nbsp;<br>
+  <br>
+  * Redistributions in binary form must reproduce the above copyright&nbsp;=
+<br>
+  notice, this list of conditions and the following disclaimer in the&nbsp;=
+<br>
+  documentation and/or other materials provided with the distribution.&nbsp=
+;<br>
+  <br>
+  * Neither the name of Texas Instruments Incorporated nor the names of&nbs=
+p;<br>
+  its contributors may be used to endorse or promote products derived&nbsp;=
+<br>
+  from this software without specific prior written permission.&nbsp;<br>
+  <br>
+  THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS &quot=
+;AS
+  IS&quot;&nbsp;<br>
+  AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO,&nbs=
+p;<br>
+  THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR&nb=
+sp;<br>
+  PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR&nbsp;<br>
+  CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL,&nbs=
+p;<br>
+  EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO,&nbsp;=
+<br>
+  PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR
+  PROFITS;&nbsp;<br>
+  OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF
+  LIABILITY,&nbsp;<br>
+  WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR&n=
+bsp;<br>
+  OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE,&nbsp;<br>
+  EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.&nbsp;<br>
+  <br>
+  Eclipse Public License - v 1.0 <br>
+  THE ACCOMPANYING PROGRAM IS PROVIDED UNDER THE TERMS OF THIS ECLIPSE PUBL=
+IC
+  LICENSE (&quot;AGREEMENT&quot;). ANY USE, REPRODUCTION OR DISTRIBUTION OF=
+ THE
+  PROGRAM CONSTITUTES RECIPIENT'S ACCEPTANCE OF THIS AGREEMENT. <br>
+  1. DEFINITIONS <br>
+  &quot;Contribution&quot; means: <br>
+  a) in the case of the initial Contributor, the initial code and documenta=
+tion
+  distributed under this Agreement, and<br>
+  b) in the case of each subsequent Contributor:<br>
+  <span class=3DSpellE>i</span>) changes to the Program, and<br>
+  ii) additions to the Program;<br>
+  where such changes and/or additions to the Program originate from and are
+  distributed by that particular Contributor. A Contribution 'originates' f=
+rom
+  a Contributor if it was added to the Program by such Contributor itself or
+  anyone acting on such Contributor's behalf. Contributions do not include
+  additions to the Program which: (<span class=3DSpellE>i</span>) are separ=
+ate
+  modules of software distributed in conjunction with the Program under the=
+ir
+  own license agreement, and (ii) are not derivative works of the Program. =
+<br>
+  &quot;Contributor&quot; means any person or entity that distributes the
+  Program. <br>
+  &quot;Licensed <span class=3DGramE>Patents &quot;</span> mean patent clai=
+ms
+  licensable by a Contributor which are necessarily infringed by the use or
+  sale of its Contribution alone or when combined with the Program. <br>
+  &quot;Program&quot; means the Contributions distributed in accordance with
+  this Agreement. <br>
+  &quot;Recipient&quot; means anyone who receives the Program under this
+  Agreement, including all Contributors. <br>
+  2. GRANT OF RIGHTS <br>
+  a) Subject to the terms of this Agreement, each Contributor hereby grants
+  Recipient a non-exclusive, worldwide, royalty-free copyright license to
+  reproduce, prepare derivative works of, publicly display, publicly perfor=
+m,
+  distribute and sublicense the Contribution of such Contributor, if any, a=
+nd
+  such derivative works, in source code and object code form.<br>
+  b) Subject to the terms of this Agreement, each Contributor hereby grants
+  Recipient a non-exclusive, worldwide, royalty-free patent license under
+  Licensed Patents to make, use, sell, offer to sell, import and otherwise
+  transfer the Contribution of such Contributor, if any, in source code and
+  object code form. This patent license shall apply to the combination of t=
+he
+  Contribution and the Program if, at the time the Contribution is added by=
+ the
+  Contributor, such addition of the Contribution causes such combination to=
+ be
+  covered by the Licensed Patents. The patent license shall not apply to any
+  other combinations which include the Contribution. No hardware per se is
+  licensed hereunder. <br>
+  c) Recipient understands that although each Contributor grants the licens=
+es
+  to its Contributions set forth herein, no assurances are provided by any
+  Contributor that the Program does not infringe the patent or other
+  intellectual property rights of any other entity. Each Contributor discla=
+ims
+  any liability to Recipient for claims brought by any other entity based on
+  infringement of intellectual property rights or otherwise. As a condition=
+ to
+  exercising the rights and licenses granted hereunder, each Recipient here=
+by
+  assumes sole responsibility to secure any other intellectual property rig=
+hts
+  needed, if any. For example, if a third party patent license is required =
+to
+  allow Recipient to distribute the Program, it is Recipient's responsibili=
+ty
+  to acquire that license before distributing the Program.<br>
+  d) Each Contributor represents that to its knowledge it has sufficient
+  copyright rights in its Contribution, if any, to grant the copyright lice=
+nse
+  set forth in this Agreement. <br>
+  3. REQUIREMENTS <br>
+  A Contributor may choose to distribute the Program in object code form un=
+der
+  its own license agreement, provided that: <br>
+  a) it complies with the terms and conditions of this Agreement; and<br>
+  b) its license agreement:<br>
+  <span class=3DSpellE>i</span>) effectively disclaims on behalf of all
+  Contributors all warranties and conditions, express and implied, including
+  warranties or conditions of title and non-infringement, and implied
+  warranties or conditions of merchantability and fitness for a particular
+  purpose; <br>
+  ii) effectively excludes on behalf of all Contributors all liability for
+  damages, including direct, indirect, special, incidental and consequential
+  damages, such as lost profits; <br>
+  iii) states that any provisions which differ from this Agreement are offe=
+red
+  by that Contributor alone and not by any other party; and<br>
+  iv) states that source code for the Program is available from such
+  Contributor, and informs licensees how to obtain it in a reasonable manne=
+r on
+  or through a medium customarily used for software exchange. <br>
+  When the Program is made available in source code form: <br>
+  a) it must be made available under this Agreement; and <br>
+  b) a copy of this Agreement must be included with each copy of the Progra=
+m. <br>
+  Contributors may not remove or alter any copyright notices contained with=
+in
+  the Program. <br>
+  Each Contributor must identify itself as the originator of its Contributi=
+on,
+  if any, in a manner that reasonably allows subsequent Recipients to ident=
+ify
+  the originator of the Contribution. <br>
+  4. COMMERCIAL DISTRIBUTION <br>
+  Commercial distributors of software may accept certain responsibilities w=
+ith
+  respect to end users, business partners and the like. While this license =
+is
+  intended to facilitate the commercial use of the Program, the Contributor=
+ who
+  includes the Program in a commercial product offering should do so in a
+  manner which does not create potential liability for other Contributors.
+  Therefore, if a Contributor includes the Program in a commercial product
+  offering, such Contributor (&quot;Commercial Contributor&quot;) hereby ag=
+rees
+  to defend and indemnify every other Contributor (&quot;Indemnified
+  Contributor&quot;) against any losses, damages and costs (collectively
+  &quot;Losses&quot;) arising from claims, lawsuits and other legal actions
+  brought by a third party against the Indemnified Contributor to the extent
+  caused by the acts or omissions of such Commercial Contributor in connect=
+ion
+  with its distribution of the Program in a commercial product offering. The
+  obligations in this section do not apply to any claims or Losses relating=
+ to
+  any actual or alleged intellectual property infringement. In order to
+  qualify, an Indemnified Contributor must: a) promptly notify the Commerci=
+al
+  Contributor in writing of such claim, and b) allow the Commercial Contrib=
+utor
+  to control, and cooperate with the Commercial Contributor in, the defense=
+ and
+  any related settlement negotiations. The Indemnified Contributor may
+  participate in any such claim at its own expense. <br>
+  For example, a Contributor might include the Program in a commercial prod=
+uct
+  offering, Product X. That Contributor is then a Commercial Contributor. If
+  that Commercial Contributor then makes performance claims, or offers
+  warranties related to Product X, those performance claims and warranties =
+are
+  such Commercial Contributor's responsibility alone. Under this section, t=
+he
+  Commercial Contributor would have to defend claims against the other
+  Contributors related to those performance claims and warranties, and if a
+  court requires any other Contributor to pay any damages as a result, the
+  Commercial Contributor must pay those damages. <br>
+  5. NO WARRANTY <br>
+  EXCEPT AS EXPRESSLY SET FORTH IN THIS AGREEMENT, THE PROGRAM IS PROVIDED =
+ON
+  AN &quot;AS IS&quot; BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND,
+  EITHER EXPRESS OR IMPLIED INCLUDING, WITHOUT LIMITATION, ANY WARRANTIES OR
+  CONDITIONS OF TITLE, NON-INFRINGEMENT, MERCHANTABILITY OR FITNESS FOR A
+  PARTICULAR PURPOSE. Each Recipient is solely responsible for determining =
+the
+  appropriateness of using and distributing the Program and assumes all ris=
+ks
+  associated with its exercise of rights under this <span class=3DGramE>Agr=
+eement
+  ,</span> including but not limited to the risks and costs of program erro=
+rs,
+  compliance with applicable laws, damage to or loss of data, programs or
+  equipment, and unavailability or interruption of operations. <br>
+  6. DISCLAIMER OF LIABILITY <br>
+  EXCEPT AS EXPRESSLY SET FORTH IN THIS AGREEMENT, NEITHER RECIPIENT NOR ANY
+  CONTRIBUTORS SHALL HAVE ANY LIABILITY FOR ANY DIRECT, INDIRECT, INCIDENTA=
+L,
+  SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING WITHOUT LIMITATION
+  LOST PROFITS), HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN
+  CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE)
+  ARISING IN ANY WAY OUT OF THE USE OR DISTRIBUTION OF THE PROGRAM OR THE
+  EXERCISE OF ANY RIGHTS GRANTED HEREUNDER, EVEN IF ADVISED OF THE POSSIBIL=
+ITY
+  OF SUCH DAMAGES. <br>
+  7. GENERAL <br>
+  If any provision of this Agreement is invalid or unenforceable under
+  applicable law, it shall not affect the validity or enforceability of the=
+ remainder
+  of the terms of this Agreement, and without further action by the parties
+  hereto, such provision shall be reformed to the minimum extent necessary =
+to
+  make such provision valid and enforceable. <br>
+  If Recipient institutes patent litigation against any entity (including a
+  cross-claim or counterclaim in a lawsuit) alleging that the Program itself
+  (excluding combinations of the Program with other software or hardware)
+  infringes such Recipient's patent(s), then such Recipient's rights granted
+  under Section 2(b) shall terminate as of the date such litigation is file=
+d. <br>
+  All Recipient's rights under this Agreement shall terminate if it fails to
+  comply with any of the material terms or conditions of this Agreement and
+  does not cure such failure in a reasonable period of time after becoming
+  aware of such noncompliance. If all <span class=3DGramE>Recipient's</span>
+  rights under this Agreement terminate, Recipient agrees to cease use and
+  distribution of the Program as soon as reasonably practicable. However,
+  Recipient's obligations under this Agreement and any licenses granted by
+  Recipient relating to the Program shall continue and survive. <br>
+  Everyone is permitted to copy and distribute copies of this Agreement, bu=
+t in
+  order to avoid inconsistency the Agreement is copyrighted and may only be=
+ modified
+  in the following manner. The Agreement Steward reserves the right to publ=
+ish
+  new versions (including revisions) of this Agreement from time to time. No
+  one other than the Agreement Steward has the right to modify this Agreeme=
+nt.
+  The Eclipse Foundation is the initial Agreement Steward. The Eclipse
+  Foundation may assign the responsibility to serve as the Agreement Stewar=
+d to
+  a suitable separate entity. Each new version of the Agreement will be giv=
+en a
+  distinguishing version number. The Program (including Contributions) may
+  always be distributed subject to the version of the Agreement under which=
+ it
+  was received. In addition, after a new version of the Agreement is publis=
+hed,
+  Contributor may elect to distribute the Program (including its Contributi=
+ons)
+  under the new version. Except as expressly stated in Sections 2(a) and 2(=
+b)
+  above, Recipient receives no rights or licenses to the intellectual prope=
+rty
+  of any Contributor under this Agreement, whether expressly, by implicatio=
+n,
+  estoppel or otherwise. All rights in the Program not expressly granted un=
+der
+  this Agreement are reserved. <br>
+  This Agreement is governed by the laws of the State of New York and the
+  intellectual property laws of the United States of America. No party to t=
+his
+  Agreement will bring a legal action under this Agreement more than one ye=
+ar
+  after the cause of action arose. Each party waives its rights to a jury t=
+rial
+  in any resulting litigation. <br>
+  Jquery.js License<br>
+  <br>
+  Copyright jQuery Foundation and other contributors, https://jquery.org/<b=
+r>
+  <br>
+  This software consists of voluntary contributions made by many<br>
+  individuals. For exact contribution history, see the revision history<br>
+  available at https://github.com/jquery/jquery<br>
+  <br>
+  <br>
+  Permission is hereby granted, free of charge, to any person obtaining<br>
+  a copy of this software and associated documentation files (the<br>
+  &quot;Software&quot;), to deal in the Software without restriction, inclu=
+ding<br>
+  without limitation the rights to use, copy, modify, merge, publish,<br>
+  distribute, sublicense, and/or sell copies of the Software, and to<br>
+  permit persons to whom the Software is furnished to do so, subject to<br>
+  the following conditions:<br>
+  <br>
+  The above copyright notice and this permission notice shall be<br>
+  included in all copies or substantial portions of the Software.<br>
+  <br>
+  THE SOFTWARE IS PROVIDED &quot;AS IS&quot;, WITHOUT WARRANTY OF ANY KIND<=
+span
+  class=3DGramE>,</span><br>
+  EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF<br>
+  MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND<br>
+  NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE<br>
+  LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION<br>
+  OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION<br>
+  WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.<br
+  style=3D'mso-special-character:line-break'>
+  <![if !supportLineBreakNewLine]><br style=3D'mso-special-character:line-b=
+reak'>
+  <![endif]><o:p></o:p></span></p>
+  </div>
+  </td>
+ </tr>
+</table>
+
+<p class=3DMsoNormal style=3D'margin:0in;margin-bottom:.0001pt'><span
+style=3D'font-size:10.0pt;font-family:"Verdana","sans-serif";mso-fareast-fo=
+nt-family:
+"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
+
+</div>
+
+</body>
+
+</html>
+
+------=_NextPart_01D2A7DE.4A46FBF0
+Content-Location: file:///C:/E54D12A5/MotorWare_files/themedata.thmx
+Content-Transfer-Encoding: base64
+Content-Type: application/vnd.ms-officetheme
+
+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
+cmVsc1BLBQYAAAAABQAFAF0BAACtCgAAAAA=
+
+------=_NextPart_01D2A7DE.4A46FBF0
+Content-Location: file:///C:/E54D12A5/MotorWare_files/colorschememapping.xml
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/xml
+
+<?xml version=3D"1.0" encoding=3D"UTF-8" standalone=3D"yes"?>
+<a:clrMap xmlns:a=3D"http://schemas.openxmlformats.org/drawingml/2006/main"=
+ bg1=3D"lt1" tx1=3D"dk1" bg2=3D"lt2" tx2=3D"dk2" accent1=3D"accent1" accent=
+2=3D"accent2" accent3=3D"accent3" accent4=3D"accent4" accent5=3D"accent5" a=
+ccent6=3D"accent6" hlink=3D"hlink" folHlink=3D"folHlink"/>
+------=_NextPart_01D2A7DE.4A46FBF0
+Content-Location: file:///C:/E54D12A5/MotorWare_files/image001.gif
+Content-Transfer-Encoding: base64
+Content-Type: image/gif
+
+R0lGODlh3gA2AKIAAAAAAP///7u7u29vbz8/PwYGBujo6BgYGCH5BAAAAAAALAAAAADeADYAAAP/
+CLrc/jDKSau9OOvNu/9gKI5kaZ5oqq5s675wLM90bd94ru987//AoHBILBqPyKRyyWw6n9CodHor
+DALYLIHKJVqz2q44eAUHtoDB4DBu48rgLQErcNtnX7NhMDcICIB3gix5ZmtqAAZZew8EAo+QkQID
+NVZqiIM1cHGKZ4YPAmaiAWw0c1gFmZqjB3SbZ6kNe6WhsAeOlDV0qjSFAXUAp7lwuREFtVsFgMvL
+B7fNAM+BCs+lDLd8BNYOuxfV22PL0RiWlwO1u3kDqejAEsjR6GB86FsHoYwA6gxWnVgGEegUuIel
+WJk6jswAGlXQ36J1xBSoQwfulIEDr/6l+VeK/+AehrAGOHRnAWRBbbWegckXAV6wk4AeRQtDQBEa
+BYsYlMl2hUCsBt0iKgilT9EfAlfO7SmzdKkrkQUT/fqZSECqLCSlntH375IAA1tqGUilLIBSNVnU
++NmJNBRVChlF1QwAdlRWBy5P3QymwCLBYhs73cTHYBq3X33nDQ2wcWuBgef0FRD4GK3jU3VCZZUJ
+AIw1OGg0P+4bFiubOWoOsEP1+KvZn3wurDbZ6lfcuw3yYkFjRSeYzRe7ARAbW0K3PmGIMi0OFDG1
+Mmha+RnufAHn3xL9ha6uTZ/rXagZ1GKAtTsHeWb+FEQvHILuX4+mLzj2j2r4TrFesTwMbE5Cuv8J
+zbTSGuRV1xgfUJFC3WbA0JWFalcItpgf8YU2yT/qATaedent5cBb8zk0DzIitgfKbonRFV9Wp2xl
+3UXq5Ccibp05598BnRigiAIJmrZAexkJQIuBwzX4CB3SQbeYQkPVAUco63DI2HzsAdYAiAvEZdYl
+aVQ5wXs3+bQAjovEUoBRR9LVAFLaPXCcY/KMqVRasQB5kiJgLcYgTkJiuCWKC2ZpIY/z/LRhYefk
+BAGW1HTyRy2UjObLHxSAOZ948EUVGCSC3SLZbB7iZKOLc2GRRgMH/VhdHnJwFCgD8iEGx0VKvpqb
+O+hoaCppEg3UiTES1CTkhNaQ+Qs4LQGql07/lET4mIQ6SvTSVGZ9Bmhz/bkYzK+PFKtpje6wumRm
+1wrLZzSdQASoZvyswdmSuk7p616HfkjBTxZBQucFgqXCFKdn1NpiUlQJhs8kteBWG0AbATbXS2tB
+laeoVkmJRova4KkGPmhMFdiSYmq8cbTRYhrlkiHaNufJ9mIgVqEXnAOJM5JE4sgjudQ8bF82x+cK
+BP4Iiedecyjgx2/WtMNjjhcL9h+S4xq9RYJgsbeeUbmdrPTSQbPccsyijEXOfI8xyuinVJH1wdkS
+/MQ2Bc5Iq08DyHYwGglvPyCilbz0fa8GLV7r9+Btb7CJ14Qnzg8HpdKoOOF5Py752JNXvrblNphz
+EHnmnF/a+ecTbA465qKPXnnppkuOeuqKr8465K+z7nrsfc9Ouyq23z5I7rrfwXvvbhSQAAA7
+
+------=_NextPart_01D2A7DE.4A46FBF0
+Content-Location: file:///C:/E54D12A5/MotorWare_files/image002.gif
+Content-Transfer-Encoding: base64
+Content-Type: image/gif
+
+R0lGODlhOgEaALMAAP8AAP////92dv+3t/+Njf/W1v/t7f8hIf/19f+jo//Hx/8/P/9cXP/j4//6
++v/+/iH5BAAAAAAALAAAAAA6ARoAAAT/EMhJq7046827/2AojmRpnmiqrmzrvnAsz3Rt33iu73zv
+/8CgcEgsGo/IpHLJbDqft0NDMCBQodis1jcADBKE7nYcCpjPgU5AQBKkVYOHAeRudqtXsh60/vRH
+dSoBBCGBNAkLe4o4f2psgG8pjR6GM5OLmDB/DA0GBoQADAgICRIBBQUOYgwGCg2kEgudBgUHAIGc
+Bg0MsZ0NCnMGYgsBtqEGAbCynrW3AQONgcIFBgiErK6wAAfUtLbCscWiowoAyLDczLZu0AIJCAYO
+oJn0G38ObAwPEvLEts/O1vUhsA8AAjGonEmA9W6hGAVpEjiQoKBAhT8HJSRkVyEQQAAJ//a5YeMP
+QIFyACqCnJjSIgFCB4oB+HOSokWOAB6wIWCxnk8MfYh5QsYg5sVHfQLVMSqhztJIxWIaC6QzJy8K
+fZgqrNT0zR+nUNl8fSMvZ6IDwJCJRfoI7IR4Cub9nDsha6RwR02xUZpGq1utUWUq9FKgYV6/abgO
+Hjt45tquEgY0SDDHoJg+fxhXolKNrmfH/EoR5EdAKmjQfB1qvPmGIQIJ3g4gC2egVF7LqxtP8Ng2
+cViTKFUCIGbNFKEEmB/VbDlYdqLRn+du8oTg6jjbmfe+CbTM2+BcuySgbQVtQoOCt7s3U8wbsqGs
+3ZppZLnylwFe8Uql825ogANPckUnYDoOCogxQGXADajggjcw4AA8DSSyTQASMmjhhTQscBWGHHbo
+4YcghijiiCSWaOKJKKao4oostugiFBEAADs=
+
+------=_NextPart_01D2A7DE.4A46FBF0
+Content-Location: file:///C:/E54D12A5/MotorWare_files/filelist.xml
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/xml; charset="utf-8"
+
+<xml xmlns:o=3D"urn:schemas-microsoft-com:office:office">
+ <o:MainFile HRef=3D"../MotorWare.htm"/>
+ <o:File HRef=3D"themedata.thmx"/>
+ <o:File HRef=3D"colorschememapping.xml"/>
+ <o:File HRef=3D"image001.gif"/>
+ <o:File HRef=3D"image002.gif"/>
+ <o:File HRef=3D"filelist.xml"/>
+</xml>
+------=_NextPart_01D2A7DE.4A46FBF0--

@@ -1,0 +1,19 @@
+Manifest-Version: 1.0
+Export-Package: com.ti.resource.explorer.rcp,com.ti.resource.explorer.
+ rcp.internal;x-internal:=true,com.ti.resource.explorer.rcp.internal.c
+ ommand;x-internal:=true
+Bundle-ActivationPolicy: lazy
+Eclipse-BundleShape: dir
+Bundle-Name: %pluginName
+Bundle-Localization: plugin
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+Require-Bundle: org.eclipse.ui,org.eclipse.core.runtime,org.eclipse.co
+ re.expressions,com.ti.ccstudio.resource.explorer;bundle-version="5.3.
+ 0"
+Bundle-Vendor: %providerName
+Bundle-Version: 2.0.0.201209131142
+Bundle-ManifestVersion: 2
+Bundle-Activator: com.ti.resource.explorer.rcp.TiRex
+Bundle-SymbolicName: com.ti.resource.explorer.rcp; singleton:=true
+
+

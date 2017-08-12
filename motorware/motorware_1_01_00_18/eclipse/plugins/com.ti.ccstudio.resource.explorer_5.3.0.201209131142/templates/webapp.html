@@ -1,0 +1,39 @@
+<html>
+<head>
+<title>Web Application</title>
+<link href="${css_path}/main.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+
+div.polaroid {
+	width: 600px;
+	height: 300px;
+	padding: 10px 10px 10px 10px;
+	border: 1px solid #BFBFBF;
+	background-color: white;
+	/* Add box-shadow */
+	box-shadow: 2px 2px 3px #aaaaaa;
+}
+</style>
+</head>
+
+<body>
+	<h1>
+		<img src="${header_image_path}" /> ${name}
+	</h1>
+	<h2>${desc}</h2>
+
+	<p>
+		${app_info}
+	</p>
+	
+	<p>
+		<a href="liveaction:LaunchWebApp(${name}, ${url})" title="Launch the application"><img src="${launcher_image_src}" /></a> <a href="liveaction:LaunchWebApp(${name}, ${url})" title="Launch the application">Launch Application</a>
+	</p>
+	
+	<div class="polaroid" title="Application Sample">
+		<img width="600px" height="300px" src="${app_image_src}"/>
+	</div>
+	
+</body>
+</html>

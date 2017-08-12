@@ -1,0 +1,39 @@
+<html>
+<head>
+<title>Example Project</title>
+<link href="${css_path}/main.css" rel="stylesheet" type="text/css" />
+
+</head>
+
+<body>
+<h1>
+	<img src="${header_image_path}" /> ${project_label}
+</h1>
+
+<h2>
+	${project_desc}
+</h2>
+<p>
+	<tr>
+		<td>
+			<h3>Here are the example file(s) for this project:</h3> <i>${pathText}</i>
+			<ul>
+				<li>Click <a href="${pathLink}">here</a> to browse the example file(s)</li>
+				<li>Click <a href="liveaction:CopyFilesAction('${srcPath}')">here</a> to copy the file(s)</li>
+			</ul>
+			
+			<h3>To set up a project based on an existing example:</h3>
+				<ol>
+					<li>Click on the link above to copy the files to the desired destination directory.</li>
+					<li>In the Grace tool, select File->Open and navigate to the directory in which you copied the files.</li>
+					<li>Select the .cfg file to open.</li>
+					<li>In the Configuration dialog box, specify the target device.</li>
+					<li>At this point you can proceed to use the Grace tool to configure the device’s peripherals.</li>
+					<li>Click on the Generate toolbar button to generate the C files that will initialize your peripherals.</li>
+				</ol>
+			</p>
+		</td>
+	</tr>
+</p>
+</body>
+</html>

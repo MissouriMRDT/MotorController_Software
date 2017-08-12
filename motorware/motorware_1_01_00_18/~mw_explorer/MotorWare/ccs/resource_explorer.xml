@@ -1,0 +1,570 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<resource.explorer version="__VERSION_DOT__" name="MotorWare" desc="MotorWare" dir="." href="MotorWare_header.mht" productId="com.ti.ccstudio.branding.product">  <contents name="InstaSPIN-FOC" href="./InstaSPIN_FOC_header.mht" icon="./graphics/devices.png">
+    <contents name="Piccolo F2802xF" href="./devices_piccolo_f2802x/piccolo_f2802xF_header.html">
+      <contents name="GUI" href="./GUI_header2x.mht">
+        <content name="Universal GUI Install" desc="Latest GUI Installer" href="http://www.ti.com/tool/instaspinfocmotorwaregui">
+          <type>weblink</type>
+        </content>
+        <content name="Universal GUI QSG" desc="Path to quick start guide" href="qsg_gui_universal.pdf" dir="../../docs/guis/universal/">
+          <type>file</type>
+        </content>
+        <content name="Run Universal GUI" desc="First add appProgram.out" href="InstaSPIN_UNIVERSAL.exe" dir="../../../../../ti/guicomposer/webapps/InstaSPIN_F2802xF_UNIVERSAL/">
+          <type>executable</type>
+        </content>
+      </contents>
+      <contents name="boostxl_drv8301_revB" href="http://www.ti.com/tool/boostxl-drv8301">
+        <contents name="Example Projects" desc="Example Projects" href="./Example_Projects_header.mht">
+          <content name="View All Example Projects" href="projects/ccs5" dir="../../sw/solutions/instaspin_foc/boards/boostxldrv8301_revB/f28x/f2802xF/">
+            <type>folder</type>
+          </content>
+          <content name="Project Source Code Documentation" href="docs/html/index.html" dir="../../sw/solutions/instaspin_foc/boards/boostxldrv8301_revB/f28x/f2802xF/">
+            <type>file</type>
+          </content>
+          <content name="proj_lab01" href="./Projects_header.mht">
+          </content>
+          <content name="proj_lab02b" href="./Projects_header.mht">
+          </content>
+          <content name="proj_lab02c" href="./Projects_header.mht">
+          </content>
+          <content name="proj_lab03a" href="./Projects_header.mht">
+          </content>
+          <content name="proj_lab03b" href="./Projects_header.mht">
+          </content>
+          <content name="proj_lab04" href="./Projects_header.mht">
+          </content>
+          <content name="proj_lab05a" href="./Projects_header.mht">
+          </content>
+          <content name="proj_lab05b" href="./Projects_header.mht">
+          </content>
+          <content name="proj_lab07" href="./Projects_header.mht">
+          </content>
+          <content name="proj_lab09" href="./Projects_header.mht">
+          </content>
+          <content name="proj_lab10a" href="./Projects_header.mht">
+          </content>
+        </contents>
+      </contents>
+      <contents name="drv8312kit_revD" href="./2x_kits.mht">
+        <contents name="Example Projects" desc="Example Projects" href="./Example_Projects_header.mht">
+          <content name="View All Example Projects" href="projects/ccs5" dir="../../sw/solutions/instaspin_foc/boards/drv8312kit_revD/f28x/f2802xF/">
+            <type>folder</type>
+          </content>
+          <content name="Project Source Code Documentation" href="docs/html/index.html" dir="../../sw/solutions/instaspin_foc/boards/drv8312kit_revD/f28x/f2802xF/">
+            <type>file</type>
+          </content>
+          <content name="proj_lab01" href="./Projects_header.mht">
+          </content>
+          <content name="proj_lab02b" href="./Projects_header.mht">
+          </content>
+          <content name="proj_lab03a" href="./Projects_header.mht">
+          </content>
+          <content name="proj_lab03b" href="./Projects_header.mht">
+          </content>
+          <content name="proj_lab04" href="./Projects_header.mht">
+          </content>
+          <content name="proj_lab05a" href="./Projects_header.mht">
+          </content>
+          <content name="proj_lab05b" href="./Projects_header.mht">
+          </content>
+          <content name="proj_lab07" href="./Projects_header.mht">
+          </content>
+          <content name="proj_lab09" href="./Projects_header.mht">
+          </content>
+          <content name="proj_lab10a" href="./Projects_header.mht">
+          </content>
+        </contents>
+      </contents>
+      <contents name="drv8301kit_revD" href="./2x_kits.mht">
+        <contents name="Example Projects" desc="Example Projects" href="./Example_Projects_header.mht">
+          <content name="View All Example Projects" href="projects/ccs5" dir="../../sw/solutions/instaspin_foc/boards/drv8301kit_revD/f28x/f2802xF/">
+            <type>folder</type>
+          </content>
+          <content name="Project Source Code Documentation" href="docs/html/index.html" dir="../../sw/solutions/instaspin_foc/boards/drv8301kit_revD/f28x/f2802xF/">
+            <type>file</type>
+          </content>
+          <content name="proj_lab01" href="./Projects_header.mht">
+          </content>
+          <content name="proj_lab02b" href="./Projects_header.mht">
+          </content>
+          <content name="proj_lab02c" href="./Projects_header.mht">
+          </content>
+          <content name="proj_lab03a" href="./Projects_header.mht">
+          </content>
+          <content name="proj_lab03b" href="./Projects_header.mht">
+          </content>
+          <content name="proj_lab04" href="./Projects_header.mht">
+          </content>
+          <content name="proj_lab05a" href="./Projects_header.mht">
+          </content>
+          <content name="proj_lab05b" href="./Projects_header.mht">
+          </content>
+          <content name="proj_lab07" href="./Projects_header.mht">
+          </content>
+          <content name="proj_lab09" href="./Projects_header.mht">
+          </content>
+          <content name="proj_lab10a" href="./Projects_header.mht">
+          </content>
+        </contents>
+      </contents>
+      <contents name="hvkit_rev1p1" href="http://www.ti.com/tool/tmdshvmtrinspin">
+        <contents name="Example Projects" desc="Example Projects" href="./Example_Projects_header.mht">
+          <content name="View All Example Projects" href="projects/ccs5" dir="../../sw/solutions/instaspin_foc/boards/hvkit_rev1p1/f28x/f2802xF/">
+            <type>folder</type>
+          </content>
+          <content name="Project Source Code Documentation" href="docs/html/index.html" dir="../../sw/solutions/instaspin_foc/boards/hvkit_rev1p1/f28x/f2802xF/">
+            <type>file</type>
+          </content>
+          <content name="proj_lab01" href="./Projects_header.mht">
+          </content>
+          <content name="proj_lab02b" href="./Projects_header.mht">
+          </content>
+          <content name="proj_lab03a" href="./Projects_header.mht">
+          </content>
+          <content name="proj_lab03b" href="./Projects_header.mht">
+          </content>
+          <content name="proj_lab04" href="./Projects_header.mht">
+          </content>
+          <content name="proj_lab05a" href="./Projects_header.mht">
+          </content>
+          <content name="proj_lab05b" href="./Projects_header.mht">
+          </content>
+          <content name="proj_lab07" href="./Projects_header.mht">
+          </content>
+          <content name="proj_lab09" href="./Projects_header.mht">
+          </content>
+          <content name="proj_lab10a" href="./Projects_header.mht">
+          </content>
+        </contents>
+      </contents>
+    </contents>
+    <contents name="Piccolo F2806xF" href="./devices_piccolo_f2806x/piccolo_f2806xF_header.html">
+      <contents name="GUI" href="./GUI_header.mht">
+        <content name="Latest Kit Files" desc="Latest GUI Installer and kit USB" href="http://www.ti.com/tool/motorkitscncd69miso">
+          <type>weblink</type>
+        </content>
+        <content name="GUI QSG" desc="Path to quick start guide" href="qsg_gui_instaspin_foc.pdf" dir="../../docs/guis/hvkits_8312s_8301s/instaspin_foc/">
+          <type>file</type>
+        </content>
+        <content name="Run GUI" desc="Launch GUI, if installed" href="InstaSPIN_FOC_F2806xM.exe" dir="../../../../../ti/guicomposer/webapps/InstaSPIN_FOC_F2806xM/">
+          <type>executable</type>
+        </content>
+        <content name="Universal GUI Install" desc="Latest GUI Installer" href="http://www.ti.com/tool/instaspinfocmotorwaregui">
+          <type>weblink</type>
+        </content>
+        <content name="Universal GUI QSG" desc="Path to quick start guide" href="qsg_gui_universal.pdf" dir="../../docs/guis/universal/">
+          <type>file</type>
+        </content>
+        <content name="Run Universal GUI" desc="First add appProgram.out" href="InstaSPIN_UNIVERSAL.exe" dir="../../../../../ti/guicomposer/webapps/InstaSPIN_F2806xM_UNIVERSAL/">
+          <type>executable</type>
+        </content>
+      </contents>
+      <contents name="drv8312kit_revD" href="http://www.ti.com/tool/drv8312-69m-kit">
+        <contents name="Example Projects" desc="Example Projects" href="./Example_Projects_header.mht">
+          <content name="View All Example Projects" href="projects/ccs5" dir="../../sw/solutions/instaspin_foc/boards/drv8312kit_revD/f28x/f2806xF/">
+            <type>folder</type>
+          </content>
+          <content name="Project Source Code Documentation" href="docs/html/index.html" dir="../../sw/solutions/instaspin_foc/boards/drv8312kit_revD/f28x/f2806xF/">
+            <type>file</type>
+          </content>
+          <content name="proj_lab01" href="./Projects_header.mht">
+          </content>
+          <content name="proj_lab02a" href="./Projects_header.mht">
+          </content>
+          <content name="proj_lab02b" href="./Projects_header.mht">
+          </content>
+          <content name="proj_lab02d" href="./Projects_header.mht">
+          </content>
+          <content name="proj_lab03a" href="./Projects_header.mht">
+          </content>
+          <content name="proj_lab03b" href="./Projects_header.mht">
+          </content>
+          <content name="proj_lab03c" href="./Projects_header.mht">
+          </content>
+          <content name="proj_lab04" href="./Projects_header.mht">
+          </content>
+          <content name="proj_lab04a" href="./Projects_header.mht">
+          </content>
+          <content name="proj_lab05a" href="./Projects_header.mht">
+          </content>
+          <content name="proj_lab05b" href="./Projects_header.mht">
+          </content>
+          <content name="proj_lab05g" href="./Projects_header.mht">
+          </content>
+          <content name="proj_lab07" href="./Projects_header.mht">
+          </content>
+          <content name="proj_lab07a" href="./Projects_header.mht">
+          </content>
+          <content name="proj_lab09" href="./Projects_header.mht">
+          </content>
+          <content name="proj_lab09a" href="./Projects_header.mht">
+          </content>
+          <content name="proj_lab10a" href="./Projects_header.mht">
+          </content>
+          <content name="proj_lab10c" href="./Projects_header.mht">
+          </content>
+        </contents>
+      </contents>
+      <contents name="drv8301kit_revD" href="http://www.ti.com/tool/drv8301-69m-kit">
+        <contents name="Example Projects" desc="Example Projects" href="./Example_Projects_header.mht">
+          <content name="View All Example Projects" href="projects/ccs5" dir="../../sw/solutions/instaspin_foc/boards/drv8301kit_revD/f28x/f2806xF/">
+            <type>folder</type>
+          </content>
+          <content name="Project Source Code Documentation" href="docs/html/index.html" dir="../../sw/solutions/instaspin_foc/boards/drv8301kit_revD/f28x/f2806xF/">
+            <type>file</type>
+          </content>
+          <content name="proj_lab01" href="./Projects_header.mht">
+          </content>
+          <content name="proj_lab02a" href="./Projects_header.mht">
+          </content>
+          <content name="proj_lab02b" href="./Projects_header.mht">
+          </content>
+          <content name="proj_lab02c" href="./Projects_header.mht">
+          </content>
+          <content name="proj_lab02d" href="./Projects_header.mht">
+          </content>
+          <content name="proj_lab03a" href="./Projects_header.mht">
+          </content>
+          <content name="proj_lab03b" href="./Projects_header.mht">
+          </content>
+          <content name="proj_lab03c" href="./Projects_header.mht">
+          </content>
+          <content name="proj_lab04" href="./Projects_header.mht">
+          </content>
+          <content name="proj_lab04a" href="./Projects_header.mht">
+          </content>
+          <content name="proj_lab05a" href="./Projects_header.mht">
+          </content>
+          <content name="proj_lab05b" href="./Projects_header.mht">
+          </content>
+          <content name="proj_lab05g" href="./Projects_header.mht">
+          </content>
+          <content name="proj_lab07" href="./Projects_header.mht">
+          </content>
+          <content name="proj_lab07a" href="./Projects_header.mht">
+          </content>
+          <content name="proj_lab09" href="./Projects_header.mht">
+          </content>
+          <content name="proj_lab09a" href="./Projects_header.mht">
+          </content>
+          <content name="proj_lab10a" href="./Projects_header.mht">
+          </content>
+          <content name="proj_lab10c" href="./Projects_header.mht">
+          </content>
+        </contents>
+      </contents>
+      <contents name="hvkit_rev1p1" href="http://www.ti.com/tool/tmdshvmtrinspin">
+        <contents name="Example Projects" desc="Example Projects" href="./Example_Projects_header.mht">
+          <content name="View All Example Projects" href="projects/ccs5" dir="../../sw/solutions/instaspin_foc/boards/hvkit_rev1p1/f28x/f2806xF/">
+            <type>folder</type>
+          </content>
+          <content name="Project Source Code Documentation" href="docs/html/index.html" dir="../../sw/solutions/instaspin_foc/boards/hvkit_rev1p1/f28x/f2806xF/">
+            <type>file</type>
+          </content>
+          <content name="proj_lab01" href="./Projects_header.mht">
+          </content>
+          <content name="proj_lab02a" href="./Projects_header.mht">
+          </content>
+          <content name="proj_lab02b" href="./Projects_header.mht">
+          </content>
+          <content name="proj_lab02d" href="./Projects_header.mht">
+          </content>
+          <content name="proj_lab03a" href="./Projects_header.mht">
+          </content>
+          <content name="proj_lab03b" href="./Projects_header.mht">
+          </content>
+          <content name="proj_lab03c" href="./Projects_header.mht">
+          </content>
+          <content name="proj_lab04" href="./Projects_header.mht">
+          </content>
+          <content name="proj_lab04a" href="./Projects_header.mht">
+          </content>
+          <content name="proj_lab05a" href="./Projects_header.mht">
+          </content>
+          <content name="proj_lab05b" href="./Projects_header.mht">
+          </content>
+          <content name="proj_lab05g" href="./Projects_header.mht">
+          </content>
+          <content name="proj_lab07" href="./Projects_header.mht">
+          </content>
+          <content name="proj_lab07a" href="./Projects_header.mht">
+          </content>
+          <content name="proj_lab09" href="./Projects_header.mht">
+          </content>
+          <content name="proj_lab09a" href="./Projects_header.mht">
+          </content>
+          <content name="proj_lab10a" href="./Projects_header.mht">
+          </content>
+          <content name="proj_lab10c" href="./Projects_header.mht">
+          </content>
+        </contents>
+      </contents>
+    </contents>
+  </contents>
+  <contents name="InstaSPIN-MOTION" href="./InstaSPIN_MOTION_header.mht" icon="./graphics/devices.png">
+    <contents name="Piccolo F2806xM" href="./devices_piccolo_f2806x/piccolo_f2806xM_header.html">
+      <contents name="GUI" href="./GUI_header.mht">
+        <content name="Latest Kit Files" desc="Latest GUI Installer and kit USB" href="http://www.ti.com/tool/motorkitscncd69miso">
+          <type>weblink</type>
+        </content>
+        <content name="Quick Start Guide" desc="Path to quick start guide" href="qsg_gui_instaspin_motion.pdf" dir="../../docs/guis/hvkits_8312s_8301s/instaspin_motion/">
+          <type>file</type>
+        </content>
+        <content name="Run GUI" desc="Launch GUI, if installed" href="InstaSPIN_MOTION_F2806xM.exe" dir="../../../../../ti/guicomposer/webapps/InstaSPIN_MOTION_F2806xM/">
+          <type>executable</type>
+        </content>
+      </contents>
+      <contents name="drv8312kit_revD" href="http://www.ti.com/tool/drv8312-69m-kit">
+        <contents name="Example Projects" desc="Example Projects" href="./Example_Projects_header_motion.mht">
+          <content name="View All Example Projects" href="projects/ccs5" dir="../../sw/solutions/instaspin_motion/boards/drv8312kit_revD/f28x/f2806xM/">
+            <type>folder</type>
+          </content>
+          <content name="Project Source Code Documentation" href="docs/html/index.html" dir="../../sw/solutions/instaspin_motion/boards/drv8312kit_revD/f28x/f2806xM/">
+            <type>file</type>
+          </content>
+          <content name="proj_lab5c" href="./Projects_header.mht">
+          </content>
+          <content name="proj_lab5d" href="./Projects_header.mht">
+          </content>
+          <content name="proj_lab5e" href="./Projects_header.mht">
+          </content>
+          <content name="proj_lab5f" href="./Projects_header.mht">
+          </content>
+          <content name="proj_lab6a" href="./Projects_header.mht">
+          </content>
+          <content name="proj_lab6b" href="./Projects_header.mht">
+          </content>
+          <content name="proj_lab6c" href="./Projects_header.mht">
+          </content>
+          <content name="proj_lab6d" href="./Projects_header.mht">
+          </content>
+          <content name="proj_lab10b" href="./Projects_header.mht">
+          </content>
+          <content name="proj_lab12" href="./Projects_header.mht">
+          </content>
+        </contents>
+      </contents>
+      <contents name="drv8301kit_revD" href="http://www.ti.com/tool/drv8301-69m-kit">
+        <contents name="Example Projects" desc="Example Projects" href="./Example_Projects_header_motion.mht">
+          <content name="View All Example Projects" href="projects/ccs5" dir="../../sw/solutions/instaspin_motion/boards/drv8301kit_revD/f28x/f2806xM/">
+            <type>folder</type>
+          </content>
+          <content name="Project Source Code Documentation" href="docs/html/index.html" dir="../../sw/solutions/instaspin_motion/boards/drv8301kit_revD/f28x/f2806xM/">
+            <type>file</type>
+          </content>
+          <content name="proj_lab5c" href="./Projects_header.mht">
+          </content>
+          <content name="proj_lab5d" href="./Projects_header.mht">
+          </content>
+          <content name="proj_lab5e" href="./Projects_header.mht">
+          </content>
+          <content name="proj_lab5f" href="./Projects_header.mht">
+          </content>
+          <content name="proj_lab6a" href="./Projects_header.mht">
+          </content>
+          <content name="proj_lab6b" href="./Projects_header.mht">
+          </content>
+          <content name="proj_lab6c" href="./Projects_header.mht">
+          </content>
+          <content name="proj_lab6d" href="./Projects_header.mht">
+          </content>
+          <content name="proj_lab10b" href="./Projects_header.mht">
+          </content>
+          <content name="proj_lab12" href="./Projects_header.mht">
+          </content>
+        </contents>
+      </contents>
+      <contents name="hvkit_rev1p1" href="http://www.ti.com/tool/tmdshvmtrinspin">
+        <contents name="Example Projects" desc="Example Projects" href="./Example_Projects_header_motion.mht">
+          <content name="View All Example Projects" href="projects/ccs5" dir="../../sw/solutions/instaspin_motion/boards/hvkit_rev1p1/f28x/f2806xM/">
+            <type>folder</type>
+          </content>
+          <content name="Project Source Code Documentation" href="docs/html/index.html" dir="../../sw/solutions/instaspin_motion/boards/hvkit_rev1p1/f28x/f2806xM/">
+            <type>file</type>
+          </content>
+          <content name="proj_lab5c" href="./Projects_header.mht">
+          </content>
+          <content name="proj_lab5d" href="./Projects_header.mht">
+          </content>
+          <content name="proj_lab5e" href="./Projects_header.mht">
+          </content>
+          <content name="proj_lab5f" href="./Projects_header.mht">
+          </content>
+          <content name="proj_lab6a" href="./Projects_header.mht">
+          </content>
+          <content name="proj_lab6b" href="./Projects_header.mht">
+          </content>
+          <content name="proj_lab6c" href="./Projects_header.mht">
+          </content>
+          <content name="proj_lab6d" href="./Projects_header.mht">
+          </content>
+          <content name="proj_lab10b" href="./Projects_header.mht">
+          </content>
+          <content name="proj_lab12" href="./Projects_header.mht">
+          </content>
+        </contents>
+      </contents>
+    </contents>
+  </contents>
+  <contents name="Drivers" href="./Drivers_header.mht" icon="./graphics/libraries.png">
+    <content name="Driver Source" href="drivers" dir="../../sw/">
+      <type>folder</type>
+    </content>
+    <content name="6x API Documentation" href="drivers/docs/api/f2806x/html/index.html" dir="../../sw/">
+      <type>file</type>
+    </content>
+    <content name="2x API Documentation" href="drivers/docs/api/f2802x/html/index.html" dir="../../sw/">
+      <type>file</type>
+    </content>
+  </contents>
+  <contents name="Modules" href="./Modules_header.mht" icon="./graphics/libraries.png">
+    <content name="View Driver Source" href="modules" dir="../../sw/">
+      <type>folder</type>
+    </content>
+    <content name="API Documentation" href="modules/docs/api/f2806x/html/index.html" dir="../../sw/">
+      <type>file</type>
+    </content>
+  </contents>
+  <contents name="Resources" desc="C2000 Application Notes" href="./Resources_header.mht" icon="./graphics/Document.png">
+    <contents name="F28027F controlCARD" href="./Control_Cards_header.mht">
+      <content name="Tool Folder" desc="Tool Folder" href="http://www.ti.com/tool/tmdscncd28027f">
+        <type>weblink</type>
+      </content>
+      <content name="Kit Readme First" desc="Kit Readme First" href="readmefirst_instaspin_motor_kits.pdf" dir="../../docs/boards/kits/docs/">
+        <type>file</type>
+      </content>
+      <content name="GUI Quick Start Guide" desc="GUI Quick Start Guide" href="qsg_gui_universal.pdf" dir="../../docs/guis/universal/">
+        <type>file</type>
+      </content>
+      <content name="HW Guide" desc="Hardware Guide" href="qsg_hw_cncd2807f.pdf" dir="../../docs/boards/control/f2802x/docs/">
+        <type>file</type>
+      </content>
+      <content name="HW Files from controlSUITE" desc="HW Design Files" href="~controlCARDs\CC2802xHWdevPkg" dir="../../../../../ti/controlSUITE/development_kits">
+        <type>folder</type>
+      </content>
+    </contents>
+    <contents name="F28027F LaunchPad" href="./Control_Cards_header.mht">
+      <content name="Tool Folder" desc="Tool Folder" href="http://www.ti.com/tool/launchxl-f28027f">
+        <type>weblink</type>
+      </content>
+      <content name="Wiki" desc="LaunchPad Wiki" href="http://processors.wiki.ti.com/index.php/C2000_LaunchPad">
+        <type>weblink</type>
+      </content>
+      <content name="Quick Start Guide" desc="In box QSG" href="http://www.ti.com/lit/sprz413">
+        <type>weblink</type>
+      </content>
+      <content name="Kit Readme First" desc="Kit Readme First" href="readmefirst_instaspin_launchboost.pdf" dir="../../docs/boards/kits/docs/">
+        <type>file</type>
+      </content>
+      <content name="GUI Quick Start Guide" desc="GUI Quick Start Guide" href="qsg_gui_universal.pdf" dir="../../docs/guis/universal/">
+        <type>file</type>
+      </content>
+      <content name="HW Experimenter Guide" desc="Hardware Guide" href="http://www.ti.com/lit/spruhh2">
+        <type>weblink</type>
+      </content>
+      <content name="HW Files from controlSUITE" desc="HW Design Files" href="C2000_LaunchPad\LAUNCHXL-F28027\HwDevPkg" dir="../../../../../ti/controlSUITE/development_kits">
+        <type>folder</type>
+      </content>
+    </contents>
+    <contents name="F28069MISO controlCARD" href="./Control_Cards_header.mht">
+      <content name="Tool Folder" desc="Tool Folder" href="http://www.ti.com/tool/tmdscncd28069miso">
+        <type>weblink</type>
+      </content>
+      <content name="Kit Readme First" desc="Kit Readme First" href="readmefirst_instaspin_motor_kits.pdf" dir="../../docs/boards/kits/docs/">
+        <type>file</type>
+      </content>
+      <content name="GUI FOC Quick Start Guide" desc="GUI Quick Start Guide" href="qsg_gui_instaspin_foc.pdf" dir="../../docs/guis/hvkits_8312s_8301s/instaspin_foc/">
+        <type>file</type>
+      </content>
+      <content name="GUI MOTION Quick Start Guide" desc="GUI Quick Start Guide" href="qsg_gui_instaspin_motion.pdf" dir="../../docs/guis/hvkits_8312s_8301s/instaspin_motion/">
+        <type>file</type>
+      </content>
+      <content name="HW Guide" desc="Hardware Guide" href="qsg_hw_cncd28069miso.pdf" dir="../../docs/boards/control/f2806x/docs/">
+        <type>file</type>
+      </content>
+      <content name="HW Files from controlSUITE" desc="HW Design Files" href="~controlCARDs\TMDSCNCD28069ISO_v1_0\R0_3" dir="../../../../../ti/controlSUITE/development_kits">
+        <type>folder</type>
+      </content>
+    </contents>
+    <contents name="DRV8301 BoosterPack" href="./Drives_header.mht">
+      <content name="Tool Folder" desc="Tool Folder" href="http://www.ti.com/tool/boostxl-drv8301">
+        <type>weblink</type>
+      </content>
+      <content name="Kit Readme First" desc="Kit Readme First" href="readmefirst_instaspin_launchboost.pdf" dir="../../docs/boards/kits/docs/">
+        <type>file</type>
+      </content>
+      <content name="HW Guide" desc="Hardware Guide" href="http://www.ti.com/lit/SLVU974">
+        <type>weblink</type>
+      </content>
+      <content name="HW Files" desc="Hardware Files" href="http://www.ti.com/lit/SLVC539">
+        <type>weblink</type>
+      </content>
+    </contents>
+    <contents name="DRV8301 Drive" href="./Drives_header.mht">
+      <content name="Tool Folder" desc="Tool Folder" href="http://www.ti.com/tool/drv8301-69m-kit">
+        <type>weblink</type>
+      </content>
+      <content name="Kit Readme First" desc="Kit Readme First" href="readmefirst_instaspin_motor_kits.pdf" dir="../../docs/boards/kits/docs/">
+        <type>file</type>
+      </content>
+      <content name="HW Guide" desc="Hardware Guide" href="qsg_hw_drv8301_revd.pdf" dir="../../docs/boards/drive/drv8301kit_revD/docs">
+        <type>file</type>
+      </content>
+      <content name="HW Files from controlSUITE" desc="HW Design Files" href="DRV830x-HC-C2-KIT_v104\~DRV830x-HC-EVM-HWdevPkg\DRV830x_RevD_HWDevPKG" dir="../../../../../ti/controlSUITE/development_kits">
+        <type>folder</type>
+      </content>
+    </contents>
+    <contents name="DRV8312 Drive" href="./Drives_header.mht">
+      <content name="Tool Folder" desc="Tool Folder" href="http://www.ti.com/tool/drv8312-69m-kit">
+        <type>weblink</type>
+      </content>
+      <content name="Kit Readme First" desc="Kit Readme First" href="readmefirst_instaspin_motor_kits.pdf" dir="../../docs/boards/kits/docs/">
+        <type>file</type>
+      </content>
+      <content name="HW Guide" desc="Hardware Guide" href="qsg_hw_drv8312_revd.pdf" dir="../../docs/boards/drive/drv8312kit_revD/docs/">
+        <type>file</type>
+      </content>
+      <content name="HW Files from controlSUITE" desc="HW Design Files" href="DRV8312-C2-KIT_v128\~DRV8312EVM-HWdevPkg\DRV8312_RevD_HWDevPKG" dir="../../../../../ti/controlSUITE/development_kits">
+        <type>folder</type>
+      </content>
+    </contents>
+    <contents name="HVMTR Drive" href="./Drives_header.mht">
+      <content name="Tool Folder" desc="Tool Folder" href="http://www.ti.com/tool/tmdshvmtrinspin">
+        <type>weblink</type>
+      </content>
+      <content name="Kit Readme First" desc="Kit Readme First" href="readmefirst_instaspin_motor_kits.pdf" dir="../../docs/boards/kits/docs/">
+        <type>file</type>
+      </content>
+      <content name="HW Guide" desc="Hardware Guide" href="qsg_hw_hvmtr_r1p1.pdf" dir="../../docs/boards/drive/hvkit_rev1p1/docs">
+        <type>file</type>
+      </content>
+      <content name="HW Files from controlSUITE" desc="HW Design Files" href="HVMotorCtrl+PfcKit_v2.1/~HVMotorCtrl+Pfc-HWdevPkg/HVMotorCtrl+PFCKit-R1.1" dir="../../../../../ti/controlSUITE/development_kits">
+        <type>folder</type>
+      </content>
+    </contents>
+    <content name="Piccolo F2802xF InstaSPIN-FOC TRM" desc="TRM link" href="http://www.ti.com/lit/spruhp4">
+      <type>weblink</type>
+    </content>
+    <content name="Piccolo F2806xF InstaSPIN-FOC TRM" desc="TRM link" href="http://www.ti.com/lit/spruhi9">
+      <type>weblink</type>
+    </content>
+    <content name="Piccolo F2806xM InstaSPIN-MOTION TRM" desc="TRM link" href="http://www.ti.com/lit/spruhj0">
+      <type>weblink</type>
+    </content>
+    <content name="InstaSPIN-FOC and InstaSPIN-MOTION User's Guide" desc="UG link" href="http://www.ti.com/lit/spruhj1">
+      <type>weblink</type>
+    </content>
+    <content name="InstaSPIN Projects and Labs User's Guide" desc="Path to Lab UG" href="instaspin_labs.pdf" dir="../../docs/labs/">
+      <type>file</type>
+    </content>
+    <content name="Software Coding Standards" desc="Path to Coding Standards" href="motorware_coding_standards.pdf" dir="../../docs/">
+      <type>file</type>
+    </content>
+    <content name="Software Architecture" desc="Path to Software Architecture" href="motorware_software_architecture.pdf" dir="../../docs/">
+      <type>file</type>
+    </content>
+    <content name="Revision History" desc="Revision History" href="./Revision_history.mht">
+    </content>
+  </contents>
+  <content name="CCS" desc="Code Composer Studio" href="./CCS_top_header.html" dir="../ccs/" icon="../ccs/ccs.png">
+  </content>
+</resource.explorer>

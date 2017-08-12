@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- resource_explorer.xsd version 1.0 -->
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+	<xs:element name="resource.explorer">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="filter"   minOccurs="0" maxOccurs="unbounded" />
+				<xs:element ref="contents" minOccurs="0" maxOccurs="unbounded" />
+				<xs:element ref="content"  minOccurs="0" maxOccurs="unbounded" />
+			</xs:sequence>
+			
+			<xs:attribute name="version" type="xs:decimal" use="required" />
+			<xs:attribute name="name" 	 type="xs:string"  use="required" />
+			<xs:attribute name="dir" 	 type="xs:string"  use="required" />
+			<xs:attribute name="href" 	 type="xs:string"  use="required" />
+			<xs:attribute name="desc" 	 type="xs:string" />
+		</xs:complexType>
+	</xs:element>
+	
+	<xs:element name="contents">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="contents" minOccurs="0" maxOccurs="unbounded" />
+				<xs:element ref="content"  minOccurs="0" maxOccurs="unbounded" />
+			</xs:sequence>
+			
+			<xs:attribute name="name" type="xs:string" use="required" />
+			<xs:attribute name="dir"  type="xs:string" />
+			<xs:attribute name="href" type="xs:string" />
+			<xs:attribute name="icon" type="xs:string" />
+			<xs:attribute name="desc" type="xs:string" />
+		</xs:complexType>
+	</xs:element>
+
+	<xs:element name="content">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="type" minOccurs="1" maxOccurs="1" />
+			
+				<xs:choice>
+					<xs:element ref="filter" minOccurs="0" maxOccurs="1" />
+					<xs:element name="filter.ref" minOccurs="0" maxOccurs="1">
+						<xs:complexType>
+							<xs:attribute name="ref.id" type="xs:string" />
+						</xs:complexType>
+					</xs:element>					
+				</xs:choice>
+			</xs:sequence>
+			
+			<xs:attribute name="name" type="xs:string" use="required" />
+			<xs:attribute name="dir"  type="xs:string" />
+			<xs:attribute name="href" type="xs:string" />
+			<xs:attribute name="icon" type="xs:string" />
+			<xs:attribute name="desc" type="xs:string" />
+		</xs:complexType>
+	</xs:element>
+
+	
+	<xs:simpleType name="myType">
+		<xs:restriction base="xs:string">
+			<xs:enumeration value="file" />
+			<xs:enumeration value="folder" />
+			<xs:enumeration value="weblink" />
+			<xs:enumeration value="webfile" />
+			<xs:enumeration value="project" />
+			<xs:enumeration value="projectSpec" />
+			<xs:enumeration value="projectCreate" />
+			<xs:enumeration value="executable" />
+		</xs:restriction>
+	</xs:simpleType>
+	
+	
+	<xs:element name="type">
+		<xs:complexType mixed="true">
+			<xs:annotation>
+				<xs:documentation xml:lang="en">
+<!--
+Content can have value of:
+	- file
+	- folder
+	- weblink
+	- webfile
+	- project
+		Additional attributes eg.
+		<attributes>
+			<attribute key="txt.import" value="Additional import text" /> (optional)
+			<attribute key="txt.build" value="Additional build text" /> (optional)
+			<attribute key="txt.config.debugger" value="Additional config debugger text" /> (optional)
+			<attribute key="txt.launch" value="Additional launch text" /> (optional)
+		</attributes>
+	- projectSpec
+	- projectCreate
+		Additional attributes eg.
+		<attributes>
+			<attribute key="project.name" value="MyProject" />
+			<attribute key="device.family" value="MSP430" />
+			<attribute key="device.variant" value="MSP430F16\d" /> (optional, value can be a regular expression)
+			<attribute key="txt.import" value="Additional import text" /> (optional)
+			<attribute key="txt.build" value="Additional build text" /> (optional)
+			<attribute key="txt.config.debugger" value="Additional config debugger text" /> (optional)
+			<attribute key="txt.launch" value="Additional launch text" /> (optional)
+		</attributes>
+	- executable
+-->
+				</xs:documentation>
+			</xs:annotation>
+			<xs:sequence>
+				<xs:element name="attributes" minOccurs="0" maxOccurs="1">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="attribute" minOccurs="0" maxOccurs="unbounded">
+								<xs:complexType>
+									<xs:attribute name="key" type="xs:string" use="required" />
+									<xs:attribute name="value" type="xs:string" use="required" />
+								</xs:complexType>
+							</xs:element>
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+			</xs:sequence>
+			
+			<xs:attribute name="name" type="xs:string" />	
+		</xs:complexType>
+	</xs:element>
+	
+	
+	<xs:element name="filter">
+		<xs:complexType>
+			<xs:all>
+				<xs:element name="devices" minOccurs="0" maxOccurs="1">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="device" type="xs:string" minOccurs="0" maxOccurs="unbounded" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="topics" minOccurs="0" maxOccurs="1">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="topic" type="xs:string" minOccurs="0" maxOccurs="unbounded" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="search.tags" minOccurs="0" maxOccurs="1">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="tag" type="xs:string" minOccurs="0" maxOccurs="unbounded" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+			</xs:all>
+			
+			<xs:attribute name="id"  type="xs:string" />		
+		</xs:complexType>
+	</xs:element>
+	
+</xs:schema>

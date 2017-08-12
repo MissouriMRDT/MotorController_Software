@@ -1,0 +1,26 @@
+Manifest-Version: 1.0
+Export-Package: com.ti.ccstudio.internal.resource.explorer;x-friends:=
+ "com.ti.ccstudio.controlsuite,com.ti.ccstudio.branding,com.ti.resourc
+ e.explorer.rcp",com.ti.ccstudio.internal.resource.explorer.editors;x-
+ friends:="com.ti.resource.explorer.rcp",com.ti.ccstudio.internal.reso
+ urce.explorer.elements;x-internal:=true,com.ti.ccstudio.internal.reso
+ urce.explorer.liveactions;x-internal:=true,com.ti.ccstudio.internal.r
+ esource.explorer.tree;x-internal:=true,com.ti.ccstudio.resource.explo
+ rer
+Bundle-ActivationPolicy: lazy
+Eclipse-BundleShape: dir
+Bundle-Name: %pluginName
+Bundle-Localization: plugin
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+Require-Bundle: com.ibm.icu,org.eclipse.ui,org.eclipse.core.runtime,or
+ g.eclipse.core.resources;bundle-version="3.7.100",org.eclipse.ui.form
+ s;visibility:=reexport,org.eclipse.compare,com.ti.common.core;bundle-
+ version="5.3.0"
+Bundle-Vendor: %providerName
+Bundle-Version: 5.3.0.201209131142
+Bundle-ManifestVersion: 2
+Bundle-Activator: com.ti.ccstudio.internal.resource.explorer.ResourceE
+ xplorerPlugin
+Bundle-SymbolicName: com.ti.ccstudio.resource.explorer;singleton:=true
+
+

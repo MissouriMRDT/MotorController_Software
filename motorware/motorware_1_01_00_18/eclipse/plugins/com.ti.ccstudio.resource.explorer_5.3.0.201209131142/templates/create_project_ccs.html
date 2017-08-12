@@ -1,0 +1,91 @@
+<html>
+<head>
+<title>Example Project</title>
+<link href="${css_path}/main.css" rel="stylesheet" type="text/css" />
+
+<script type="text/javascript" >
+	var PROJECT_NAME = "${project_name}";
+	var CHECK_ICON_PATH = "${check_icon_path}";
+	var BLANK_ICON_PATH = "${blank_icon_path}";
+</script>
+<script type="text/javascript" src="${lib_folder}/jquery-1.6.1.js"></script>
+<script type="text/javascript" src="${lib_folder}/updater.js"></script>
+</head>
+
+<body>
+<h1>
+	<img src="${header_image_path}" /> ${project_label}
+</h1>
+
+<h2>
+	${project_desc}
+</h2>
+
+<h3>
+	These are the steps to import the project, build the project, and debug the project.
+</h3>
+
+<p>
+<table id="Table" cellpadding="5">
+	<tr>
+		<td style="white-space:nowrap">Step 1:</td>
+		<td style="white-space:nowrap"><a href="liveaction:${command}"><img src="${import_project_image_path}" hspace=5 />Import the example project into CCS</a></td>
+		<td><span style="color:green; font-weight:bold" id="projectImportedTextId"></span> <span><img src="" id="projectImportedImageId" /></span></td>
+	</tr>
+	<tr>
+		<td />
+		<td><small><i>Click on the link above to import the project. The imported project is available in the <b>Project Explorer</b> view, 
+		expand the project node to browse the imported source files. To modify source code, double clicks on the source file within the 
+		project to open the source file editor.${txt.import}</i></small></td>
+		<td/>
+	</tr>
+	<tr>
+		<td style="white-space:nowrap">Step 2:</td>
+		<td style="white-space:nowrap"><a href="liveaction:BuildProjectAction(${project_name})"><img src="${build_project_image_path}" hspace=5 />Build the imported project</a></td>
+		<td><span style="color:green; font-weight:bold" id="projectBuiltTextId"></span> <span><img src="" id="projectBuiltImageId" /></span></td>
+	<tr/>
+		<tr>
+		<td />
+		<td><small><i>To change build options, right click on the project and select <b>Properties</b> from the context menu. To build the project,
+		select the link above, or select the <b>Build</b> toolbar button, or select the <b>Project | Build Project</b> menu item.${txt.build}</i></small></td>
+		<td/>
+	</tr>
+	<tr>
+		<td style="white-space:nowrap">Step 3:</td>
+		<td style="white-space:nowrap"><a href="liveaction:DebuggerConfigurationAction(${project_name})"><img src="${config_connection_image_path}" hspace=5 />Debugger Configuration</a></td>
+		<td><span style="color:green; font-weight:bold" id="configConnectionTextId"></span> <span><img src="" id="configConnectionImageId" /></span></td>
+	<tr/>
+		<tr>
+		<td />
+		<td><small><i>Connection: <b><span style="color:#006699" id="configConnectionNameId"></span></b><br>
+		Click on the link above to change the device connection. Additionally, this option is also available in the project properties.${txt.config.debugger}</i></small>
+		</td>
+		<td/>
+	</tr>
+	<tr>
+		<td style="white-space:nowrap">Step 4:</td>
+		<td style="white-space:nowrap"><a href="liveaction:DebugProjectAction(${project_name})"><img src="${debug_project_image_path}" hspace=5 />Debug the imported project</a></td>
+		<td><span style="color:green; font-weight:bold" id="projectlaunchedTextId"></span> <span><img src="" id="projectlaunchedImageId" /></span></td>
+	</tr>
+	<tr/>
+		<tr>
+		<td />
+		<td><small><i>Click on the link above to launch a debug session for the <b>${project_label}</b> project and switch to the <b>CCS Debug Perspective</b>.
+		Additionally, these are other methods to start a project debug session. Select the project in the <b>Project Explorer</b> view and click on the bug toolbar button.
+		To relaunch a previous debug session, click on the small arrow beside the bug toolbar button and select one of the debug session from the history.${txt.launch}</i></small></td>
+		<td/>
+	</tr>
+</table>
+</p>
+
+<span style="background: red; color= white; font-weight:bold" id="debugOutput"></span>
+
+<script type="text/javascript">
+	// executed on page has fully loaded
+	$(document).ready(function() {
+		loadStatusFile(showResults, showError);
+	});
+</script>
+
+</body>
+</html>
